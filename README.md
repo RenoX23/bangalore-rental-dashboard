@@ -3,6 +3,16 @@
 
 Live Demo → https://renox23-bangalore-rental-dashboard.streamlit.app/
 
+
+## Dashboard Preview
+
+![Overview](assets/dashboard_overview.png)
+
+![Locality Analysis](assets/locality_analysis.png)
+
+![Furnishing & Distribution](assets/furnishing_distribution.png)
+
+
 ## Business Question
 Which Bangalore micro-markets offer the best rental value, and where are renters overpaying?
 
