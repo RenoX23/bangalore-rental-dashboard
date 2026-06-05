@@ -101,9 +101,9 @@ with col3:
                   text="avg_rent", color="avg_rent",
                   color_continuous_scale="Reds",
                   labels={"avg_rent": "Avg Rent (₹)", "locality": ""})
-    fig3.update_traces(texttemplate="₹%{text:,.0f}", textposition="outside")
+    fig3.update_traces(texttemplate="₹%{text:,.0f}", textposition="auto")
     fig3.update_layout(coloraxis_showscale=False, height=400,
-                       yaxis={"categoryorder": "total ascending"},margin={"r":120})
+                       yaxis={"categoryorder": "total ascending"},margin={"r":120},xaxis_range=[0, 75000])
     st.plotly_chart(fig3, use_container_width=True)
 
 with col4:
@@ -121,9 +121,9 @@ with col4:
                   text="avg_ppsqft", color="avg_ppsqft",
                   color_continuous_scale="Greens",
                   labels={"avg_ppsqft": "Avg ₹/sqft", "locality": ""})
-    fig4.update_traces(texttemplate="₹%{text}", textposition="outside")
+    fig4.update_traces(texttemplate="₹%{text}", textposition="auto")
     fig4.update_layout(coloraxis_showscale=False, height=400,
-                       yaxis={"categoryorder": "total descending"})
+                       yaxis={"categoryorder": "total descending"},margin={"r": 80})
     st.plotly_chart(fig4, use_container_width=True)
 
 st.divider()
