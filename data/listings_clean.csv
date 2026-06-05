@@ -1,0 +1,885 @@
+id,source,locality,city_zone,bhk_type,rent_monthly,deposit_amount,area_sqft,furnishing,near_metro,listing_date,scraped_at,listing_url,price_per_sqft
+2677,kaggle,Talagatta Pura,Other,3 BHK,70000,,3354,Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,20.87
+2678,kaggle,Nagappa Reddy layout-Dooravani Nagar,Other,2 BHK,10500,,800,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,13.12
+2679,kaggle,"Kattigenahalli, Bellary Road",Other,2 BHK,13000,,1000,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,13.00
+2681,kaggle,"Chikkalasandra, Bangalore",Other,3 BHK,21000,,1403,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,14.97
+2682,kaggle,Talaghattapura,Other,2 BHK,10000,,600,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,16.67
+2683,kaggle,Malleshwaram,West,4 BHK,61500,,2608,Semi-Furnished,,2022-07-09,2026-06-05 22:46:37.485506,,23.58
+2684,kaggle,"Ramaiah Layout, Kacharakanahalli",Other,2 BHK,13000,,850,Semi-Furnished,,2022-05-11,2026-06-05 22:46:37.485506,,15.29
+2685,kaggle,Rajajinagar,West,1 BHK,7500,,400,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,18.75
+2687,kaggle,Kengeri Main Road,Other,3 BHK,25000,,1350,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,18.52
+2689,kaggle,Thanisandra,Other,1 BHK,8000,,350,Semi-Furnished,,2022-05-04,2026-06-05 22:46:37.485506,,22.86
+2691,kaggle,Bannerghatta Main Road,South,3 BHK,50000,,2000,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,25.00
+2692,kaggle,"Vinayakanagar, Hebbal",North,2 BHK,13000,,700,Semi-Furnished,,2022-05-09,2026-06-05 22:46:37.485506,,18.57
+2693,kaggle,venkatapuram,Other,1 BHK,13500,,600,Semi-Furnished,,2022-05-20,2026-06-05 22:46:37.485506,,22.50
+2694,kaggle,"Vv Nagar, Bikasipura",Other,2 BHK,13000,,700,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,18.57
+2697,kaggle,Kacharakanahalli,Other,1 BHK,7000,,600,Unfurnished,,2022-05-10,2026-06-05 22:46:37.485506,,11.67
+2698,kaggle,Tumkur Road,Other,2 BHK,25000,,770,Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,32.47
+2699,kaggle,Babusahib Palya,Other,2 BHK,17000,,900,Semi-Furnished,,2022-06-25,2026-06-05 22:46:37.485506,,18.89
+2700,kaggle,"Kumaraswamy Layout, Kumaraswamy Layout",Other,1 BHK,7500,,500,Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,15.00
+2701,kaggle,Nri Layout,Other,2 BHK,15000,,1100,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,13.64
+2702,kaggle,"Balaji Layout -Hongasandra, Hongasandra",Other,1 BHK,7500,,500,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,15.00
+2703,kaggle,Vijaya Bank Layout,Other,3 BHK,25000,,1260,Furnished,,2022-04-28,2026-06-05 22:46:37.485506,,19.84
+2704,kaggle,"Jaya Nagar Block 1, Jayanagar",South,3 BHK,54000,,1750,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,30.86
+2706,kaggle,Nelamangala,Other,1 BHK,4500,,450,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,10.00
+2707,kaggle,Yelahanka New Town,North,2 BHK,10500,,800,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,13.12
+2708,kaggle,Hongasandra,Other,1 BHK,5500,,400,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,13.75
+2709,kaggle,Girinagar,Other,2 BHK,16000,,600,Unfurnished,,2022-06-13,2026-06-05 22:46:37.485506,,26.67
+2710,kaggle,T Dasarahalli,Other,1 BHK,7000,,400,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,17.50
+2712,kaggle,Jogupalya,Other,2 BHK,10000,,1200,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,8.33
+2715,kaggle,in Bannerghatta Road,South,3 BHK,12000,,1200,Unfurnished,,2022-06-17,2026-06-05 22:46:37.485506,,10.00
+2716,kaggle,"Electronic City Phase 2, Electronic City",South,2 BHK,13000,,1000,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,13.00
+2717,kaggle,Hebbal,North,2 BHK,50000,,1280,Furnished,,2022-05-18,2026-06-05 22:46:37.485506,,39.06
+2719,kaggle,"Garebhavipalya, Hongasandra, Hosur Road",Other,2 BHK,30000,,450,Unfurnished,,2022-06-14,2026-06-05 22:46:37.485506,,66.67
+2720,kaggle,Btm Layout Stage 4,South,1 BHK,10000,,600,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,16.67
+2721,kaggle,Konanakunte,Other,2 BHK,15000,,800,Semi-Furnished,,2022-05-04,2026-06-05 22:46:37.485506,,18.75
+2722,kaggle,Basaveshwar Nagar,Other,1 BHK,7500,,500,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,15.00
+2724,kaggle,Hebbal,North,3 BHK,65000,,2000,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,32.50
+2725,kaggle,Koramangala Block 4,South,1 BHK,12000,,500,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,24.00
+2726,kaggle,"Aecs Layout-Singasandra, Singasandra, Hosur Road",Other,1 BHK,7000,,500,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,14.00
+2729,kaggle,"Kalasipalyam, Kalasipalyam",Other,2 BHK,30000,,1200,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,25.00
+2730,kaggle,"Tilak Nagar, Jayanagar, bannerghatta main Road",South,1 BHK,8000,,500,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,16.00
+2732,kaggle,Electronic City,South,1 BHK,7500,,440,Semi-Furnished,,2022-06-21,2026-06-05 22:46:37.485506,,17.05
+2733,kaggle,Sarjapur Road,East,2 BHK,20000,,1040,Semi-Furnished,,2022-05-18,2026-06-05 22:46:37.485506,,19.23
+2734,kaggle,whitefield,East,4 BHK,110000,,2900,Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,37.93
+2735,kaggle,Nagondanahalli,Other,3 BHK,30000,,1200,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,25.00
+2736,kaggle,"Isro Layout, Kumaraswamy Layout",Other,3 BHK,20000,,1600,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,12.50
+2738,kaggle,JAR Shikara,Other,2 BHK,17000,,1000,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,17.00
+2739,kaggle,Medahalli,Other,2 BHK,15000,,1200,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,12.50
+2740,kaggle,"Electronic City Phase 2, Electronic City",South,1 BHK,6000,,400,Semi-Furnished,,2022-05-26,2026-06-05 22:46:37.485506,,15.00
+2727,kaggle,Mahadevapura,East,1 BHK,9000,,800,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,11.25
+2688,kaggle,Ramamurthy Nagar,East,2 BHK,10500,,800,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,13.12
+2680,kaggle,C V Raman Nagar,East,2 BHK,17000,,1040,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,16.35
+2695,kaggle,C V Raman Nagar,East,1 BHK,15000,,600,Semi-Furnished,,2022-06-02,2026-06-05 22:46:37.485506,,25.00
+2705,kaggle,Maruthi Sevanagar,East,1 BHK,14500,,600,Semi-Furnished,,2022-05-24,2026-06-05 22:46:37.485506,,24.17
+2713,kaggle,Maruthi Sevanagar,East,2 BHK,18000,,1045,Semi-Furnished,,2022-05-04,2026-06-05 22:46:37.485506,,17.22
+2728,kaggle,Banaswadi,East,2 BHK,23000,,1100,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,20.91
+2690,kaggle,J P Nagar,South,1 BHK,9500,,900,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,10.56
+2723,kaggle,"Jp Nagar Phase 7, J P Nagar",South,3 BHK,45000,,1680,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,26.79
+2714,kaggle,"Balaji Gardens Layout, Gottigere",South,3 BHK,28000,,1021,Furnished,,2022-05-02,2026-06-05 22:46:37.485506,,27.42
+2686,kaggle,Padmanabha Nagar,South,2 BHK,17000,,1000,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,17.00
+2737,kaggle,Banashankari,South,4 BHK,84000,,3150,Unfurnished,,2022-05-11,2026-06-05 22:46:37.485506,,26.67
+2718,kaggle,Jalahalli East,North,1 BHK,7000,,450,Semi-Furnished,,2022-06-21,2026-06-05 22:46:37.485506,,15.56
+2742,kaggle,Byatarayanapura,Other,2 BHK,9500,,530,Semi-Furnished,,2022-06-07,2026-06-05 22:46:37.485506,,17.92
+2744,kaggle,"Dwarka Nagar, Kattigenahalli",Other,2 BHK,15000,,1000,Semi-Furnished,,2022-06-22,2026-06-05 22:46:37.485506,,15.00
+2745,kaggle,Btm Layout,South,1 BHK,12000,,450,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,26.67
+2746,kaggle,"Jeevan Bima Nagar, Airport Road",Other,1 BHK,10000,,600,Semi-Furnished,,2022-06-06,2026-06-05 22:46:37.485506,,16.67
+2747,kaggle,"Jaya Nagar Block 7, Jayanagar",South,2 BHK,16000,,1100,Unfurnished,,2022-06-23,2026-06-05 22:46:37.485506,,14.55
+2748,kaggle,Chamrajpet,Other,1 BHK,11000,,400,Unfurnished,,2022-06-30,2026-06-05 22:46:37.485506,,27.50
+2749,kaggle,"Hosa Road, off Hosur Road",Other,2 BHK,11000,,700,Unfurnished,,2022-06-30,2026-06-05 22:46:37.485506,,15.71
+2750,kaggle,"Electronics City Phase 1, Electronic City",South,2 BHK,20000,,1105,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,18.10
+2751,kaggle,Subramanyapura,Other,3 BHK,24000,,1430,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,16.78
+2753,kaggle,Byatarayanapura,Other,1 BHK,4000,,650,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,6.15
+2754,kaggle,Kempapura Agrahara,Other,2 BHK,12000,,1200,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,10.00
+2755,kaggle,Vijayanagar,South,2 BHK,8500,,600,Unfurnished,,2022-07-04,2026-06-05 22:46:37.485506,,14.17
+2756,kaggle,Munnekollal,Other,1 BHK,9000,,400,Semi-Furnished,,2022-06-26,2026-06-05 22:46:37.485506,,22.50
+2758,kaggle,"Ananda Puram, Jeevan Bima Nagar",Other,2 BHK,10500,,1100,Semi-Furnished,,2022-05-06,2026-06-05 22:46:37.485506,,9.55
+2759,kaggle,"Electronic City Phase 2, Electronic City",South,2 BHK,12000,,900,Unfurnished,,2022-05-29,2026-06-05 22:46:37.485506,,13.33
+2760,kaggle,"Hrbr Layout, Kalyan Nagar, Outer Ring Road",Other,3 BHK,32000,,1300,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,24.62
+2762,kaggle,"Vishweshwaraiah Layout, Annapurneshwari Nagar",Other,3 BHK,21000,,1000,Furnished,,2022-06-24,2026-06-05 22:46:37.485506,,21.00
+2763,kaggle,Babusapalya,Other,2 BHK,12000,,900,Unfurnished,,2022-06-06,2026-06-05 22:46:37.485506,,13.33
+2764,kaggle,Babusapalya,Other,1 BHK,7000,,800,Unfurnished,,2022-06-06,2026-06-05 22:46:37.485506,,8.75
+2765,kaggle,Hutchins Road,Other,2 BHK,15000,,750,Unfurnished,,2022-05-12,2026-06-05 22:46:37.485506,,20.00
+2766,kaggle,Nisarga capital appartment,Other,2 BHK,11400,,1100,Unfurnished,,2022-05-10,2026-06-05 22:46:37.485506,,10.36
+2769,kaggle,"Hbr Layout Block 4, HBR Layout",Other,2 BHK,27000,,1000,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,27.00
+2770,kaggle,Frazer Town,Other,3 BHK,48000,,2000,Semi-Furnished,,2022-05-18,2026-06-05 22:46:37.485506,,24.00
+2771,kaggle,Chikkalasandra,Other,1 BHK,7000,,550,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,12.73
+2772,kaggle,whitefield,East,2 BHK,15000,,1130,Unfurnished,,2022-06-12,2026-06-05 22:46:37.485506,,13.27
+2773,kaggle,Abbigere,Other,2 BHK,10000,,600,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,16.67
+2774,kaggle,Chikkabanavara,Other,1 BHK,7000,,100,Semi-Furnished,,2022-05-16,2026-06-05 22:46:37.485506,,70.00
+2775,kaggle,"Meenakshi Layout, Kengeri",Other,2 BHK,9000,,500,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,18.00
+2776,kaggle,Rajajinagar,West,1 BHK,8000,,600,Unfurnished,,2022-05-10,2026-06-05 22:46:37.485506,,13.33
+2777,kaggle,Mahatma Gandhi Road,Other,2 BHK,35000,,1200,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,29.17
+2779,kaggle,Madanayakahalli,Other,1 BHK,4500,,600,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,7.50
+2780,kaggle,Sivanchetti Gardens,Other,2 BHK,16000,,600,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,26.67
+2781,kaggle,Nagavara,Other,2 BHK,10000,,700,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,14.29
+2782,kaggle,Hebbal,North,1 BHK,8000,,400,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,20.00
+2783,kaggle,Thammenahalli Apartmentge,Other,1 BHK,6000,,400,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,15.00
+2786,kaggle,Magadi Road,Other,3 BHK,55000,,1603,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,34.31
+2787,kaggle,Bagalakunte,Other,3 BHK,15000,,1200,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,12.50
+2792,kaggle,Ragavendra Industrial Estate,Other,2 BHK,6000,,700,Unfurnished,,2022-06-23,2026-06-05 22:46:37.485506,,8.57
+2794,kaggle,"Dooravani Nagar, Dooravani Nagar",Other,1 BHK,8000,,800,Unfurnished,,2022-05-31,2026-06-05 22:46:37.485506,,10.00
+2795,kaggle,Hommadevanahalli,Other,1 BHK,7500,,550,Semi-Furnished,,2022-06-21,2026-06-05 22:46:37.485506,,13.64
+2796,kaggle,"Ms Palya, Vidyaranyapura",Other,2 BHK,9500,,750,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,12.67
+2800,kaggle,"Btm Layout Stage 2, BTM Layout",South,2 BHK,12000,,800,Unfurnished,,2022-06-08,2026-06-05 22:46:37.485506,,15.00
+2801,kaggle,"Sanjeevini Nagar, Hegganahalli",Other,4 BHK,100000,,3700,Semi-Furnished,,2022-05-18,2026-06-05 22:46:37.485506,,27.03
+2802,kaggle,Electronic City,South,2 BHK,12000,,1200,Unfurnished,,2022-07-08,2026-06-05 22:46:37.485506,,10.00
+2803,kaggle,"Prakruthi Township, Hennur",Other,1 BHK,8500,,480,Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,17.71
+2804,kaggle,"M C Layout, Vijayanagar, Magadi Road",South,2 BHK,18000,,1000,Semi-Furnished,,2022-07-01,2026-06-05 22:46:37.485506,,18.00
+2805,kaggle,"Dr.Shivaram Karanth Nagar, Jakkuru",Other,1 BHK,11000,,800,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,13.75
+2788,kaggle,"Murugeshpalya, Airport Road",East,1 BHK,12000,,420,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,28.57
+2743,kaggle,"Udayanagar Extension, Mahadevapura",East,1 BHK,8000,,300,Unfurnished,,2022-06-16,2026-06-05 22:46:37.485506,,26.67
+2798,kaggle,Ramamurthy Nagar,East,1 BHK,9000,,600,Semi-Furnished,,2022-05-22,2026-06-05 22:46:37.485506,,15.00
+2761,kaggle,Horamavu kelkkeri road,East,2 BHK,15000,,1000,Semi-Furnished,,2022-05-25,2026-06-05 22:46:37.485506,,15.00
+2784,kaggle,Horamavu,East,2 BHK,13000,,1000,Unfurnished,,2022-06-30,2026-06-05 22:46:37.485506,,13.00
+2757,kaggle,"Sarakki Nagar, J P Nagar",South,4 BHK,180000,,2800,Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,64.29
+2767,kaggle,"Jp Nagar Phase 1, J P Nagar",South,2 BHK,15000,,1200,Semi-Furnished,,2022-04-28,2026-06-05 22:46:37.485506,,12.50
+2789,kaggle,Gottigere,South,2 BHK,9000,,1200,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,7.50
+2790,kaggle,Gottigere,South,3 BHK,36000,,1771,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,20.33
+2778,kaggle,Bilekahalli,South,2 BHK,16000,,850,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,18.82
+2791,kaggle,No 309 6th A cross Banashankari 1st stage 2nd block Bangalore 560050,South,3 BHK,37000,,1200,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,30.83
+2797,kaggle,Mathikere,North,2 BHK,13500,,700,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,19.29
+2793,kaggle,"Jalahalli, Jalahalli, Outer Ring Road",North,1 BHK,17000,,610,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,27.87
+2806,kaggle,Rajajinagar,West,3 BHK,18000,,900,Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,20.00
+2808,kaggle,Rajajinagar,West,1 BHK,6500,,400,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,16.25
+2809,kaggle,Near coffee board layout,Other,2 BHK,11500,,700,Semi-Furnished,,2022-05-18,2026-06-05 22:46:37.485506,,16.43
+2811,kaggle,"Lakkasandra, Wilson Garden, bannerghatta main road",South,1 BHK,13000,,450,Furnished,,2022-05-16,2026-06-05 22:46:37.485506,,28.89
+2812,kaggle,Mysore Road,Other,3 BHK,20000,,773,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,25.87
+2813,kaggle,Kengeri,Other,2 BHK,10000,,1200,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,8.33
+2814,kaggle,Begur Koppa Rd,Other,2 BHK,15000,,1000,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,15.00
+2815,kaggle,B.Narayanapura,Other,1 BHK,8000,,150,Unfurnished,,2022-06-10,2026-06-05 22:46:37.485506,,53.33
+2816,kaggle,Ananth Nagar,Other,2 BHK,12000,,865,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,13.87
+2818,kaggle,Basavanagudi,Other,2 BHK,20000,,800,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,25.00
+2819,kaggle,Old Airport Road,Other,1 BHK,8000,,200,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,40.00
+2820,kaggle,Hebbal,North,1 BHK,11000,,600,Unfurnished,,2022-06-02,2026-06-05 22:46:37.485506,,18.33
+2822,kaggle,Hegganahalli,Other,2 BHK,10000,,800,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,12.50
+2823,kaggle,"Hrbr Layout Block 2, Kalyan Nagar, Outer Ring Road",Other,3 BHK,30000,,1600,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,18.75
+2824,kaggle,Electronic City,South,2 BHK,8000,,600,Unfurnished,,2022-06-30,2026-06-05 22:46:37.485506,,13.33
+2825,kaggle,"Vishwapriya Nagar, Begur",Other,2 BHK,15000,,1100,Unfurnished,,2022-06-28,2026-06-05 22:46:37.485506,,13.64
+2826,kaggle,Nri Layout,Other,2 BHK,12000,,950,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,12.63
+2828,kaggle,"Ms Palya, Vidyaranyapura",Other,3 BHK,20000,,1200,Semi-Furnished,,2022-04-28,2026-06-05 22:46:37.485506,,16.67
+2830,kaggle,Electronic City,South,2 BHK,17500,,1080,Furnished,,2022-06-05,2026-06-05 22:46:37.485506,,16.20
+2831,kaggle,Kamala Nagar,Other,1 BHK,8000,,600,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,13.33
+2832,kaggle,Kachohalli,Other,2 BHK,8500,,1000,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,8.50
+2833,kaggle,Bommanahalli,South,1 BHK,7500,,600,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,12.50
+2834,kaggle,Rmv Extension Stage 2,Other,2 BHK,22000,,1100,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,20.00
+2835,kaggle,Nagarbhavi,Other,1 BHK,6000,,300,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,20.00
+2836,kaggle,Marathahalli,East,2 BHK,32900,,1200,Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,27.42
+2838,kaggle,"Moodalaplya, Vijayanagar",South,2 BHK,10000,,535,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,18.69
+2839,kaggle,"Bedarahalli, Magadi Road",Other,2 BHK,10000,,800,Unfurnished,,2022-06-15,2026-06-05 22:46:37.485506,,12.50
+2840,kaggle,Electronic City,South,3 BHK,21000,,1159,Unfurnished,,2022-05-05,2026-06-05 22:46:37.485506,,18.12
+2842,kaggle,Kodigehalli,Other,1 BHK,6900,,50,Semi-Furnished,,2022-05-25,2026-06-05 22:46:37.485506,,138.00
+2843,kaggle,Vijayanagar,South,2 BHK,14000,,700,Unfurnished,,2022-05-14,2026-06-05 22:46:37.485506,,20.00
+2845,kaggle,Rukmini Nagar,Other,1 BHK,6500,,700,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,9.29
+2846,kaggle,Vibhutipura,Other,2 BHK,13000,,600,Unfurnished,,2022-06-23,2026-06-05 22:46:37.485506,,21.67
+2848,kaggle,Hebbal Kempapura,North,2 BHK,18000,,1000,Semi-Furnished,,2022-06-14,2026-06-05 22:46:37.485506,,18.00
+2849,kaggle,Rajajinagar,West,2 BHK,20000,,1100,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,18.18
+2851,kaggle,Kannur,Other,4 BHK,50000,,2900,Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,17.24
+2852,kaggle,Bhattarahalli,Other,2 BHK,14500,,990,Unfurnished,,2022-06-25,2026-06-05 22:46:37.485506,,14.65
+2853,kaggle,Raghuvanahalli-Bcmc Layout,Other,2 BHK,15000,,1300,Furnished,,2022-05-01,2026-06-05 22:46:37.485506,,11.54
+2855,kaggle,Chandapura,Other,3 BHK,15000,,1360,Semi-Furnished,,2022-06-07,2026-06-05 22:46:37.485506,,11.03
+2856,kaggle,"Marutinagar,",Other,2 BHK,12000,,600,Semi-Furnished,,2022-06-01,2026-06-05 22:46:37.485506,,20.00
+2857,kaggle,Electronic City,South,2 BHK,18000,,1200,Semi-Furnished,,2022-05-04,2026-06-05 22:46:37.485506,,15.00
+2858,kaggle,Electronic City,South,2 BHK,15000,,1050,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,14.29
+2859,kaggle,Medahalli,Other,2 BHK,12000,,840,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,14.29
+2860,kaggle,Hoysala Nagar,Other,2 BHK,25000,,1050,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,23.81
+2861,kaggle,Vasanth Nagar,Other,3 BHK,150000,,3250,Furnished,,2022-05-18,2026-06-05 22:46:37.485506,,46.15
+2862,kaggle,Nagarabhavi,Other,1 BHK,10000,,500,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,20.00
+2865,kaggle,"Shamanna Garden, Wilson Garden",Other,2 BHK,12000,,600,Unfurnished,,2022-05-30,2026-06-05 22:46:37.485506,,20.00
+2866,kaggle,Kodi Halli,Other,2 BHK,16000,,900,Semi-Furnished,,2022-05-20,2026-06-05 22:46:37.485506,,17.78
+2867,kaggle,Kodi Halli,Other,2 BHK,23000,,1100,Semi-Furnished,,2022-05-20,2026-06-05 22:46:37.485506,,20.91
+2869,kaggle,Kadugodi,Other,1 BHK,7000,,600,Unfurnished,,2022-06-08,2026-06-05 22:46:37.485506,,11.67
+2871,kaggle,"Jeevan Bima Nagar, Airport Road",Other,1 BHK,10000,,415,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,24.10
+2872,kaggle,Vidyaranyapura,Other,3 BHK,39000,,1200,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,32.50
+2844,kaggle,Mahadevapura,East,1 BHK,14500,,550,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,26.36
+2868,kaggle,"Jagadish Nagar, Kaggadasapura",East,2 BHK,25000,,1100,Semi-Furnished,,2022-05-20,2026-06-05 22:46:37.485506,,22.73
+2821,kaggle,Horamavu,East,3 BHK,40000,,1840,Semi-Furnished,,2022-06-14,2026-06-05 22:46:37.485506,,21.74
+2810,kaggle,Banaswadi,East,2 BHK,22000,,1000,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,22.00
+2837,kaggle,J P Nagar,South,2 BHK,15000,,800,Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,18.75
+2850,kaggle,"Jp Nagar Phase 5, J P Nagar, Outer Ring Road",South,1 BHK,14000,,750,Semi-Furnished,,2022-04-28,2026-06-05 22:46:37.485506,,18.67
+2827,kaggle,Kanakapura Road,South,2 BHK,12000,,905,Semi-Furnished,,2022-06-07,2026-06-05 22:46:37.485506,,13.26
+2841,kaggle,Kanakapura Road,South,4 BHK,63000,,2650,Unfurnished,,2022-06-02,2026-06-05 22:46:37.485506,,23.77
+2863,kaggle,Gottigere,South,2 BHK,8000,,900,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,8.89
+2807,kaggle,Rayasandra,South,3 BHK,17000,,1450,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,11.72
+2817,kaggle,Rayasandra,South,1 BHK,20000,,600,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,33.33
+2864,kaggle,Indira Nagar,Central,2 BHK,40000,,1300,Semi-Furnished,,2022-05-22,2026-06-05 22:46:37.485506,,30.77
+2847,kaggle,"Mallasandra, Jalahalli West",North,2 BHK,8000,,600,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,13.33
+2870,kaggle,Yeshwantpur,West,2 BHK,17500,,1250,Unfurnished,,2022-05-31,2026-06-05 22:46:37.485506,,14.00
+2873,kaggle,Bommasandra,Other,3 BHK,22000,,1200,Unfurnished,,2022-05-18,2026-06-05 22:46:37.485506,,18.33
+2875,kaggle,Bangalore,Other,2 BHK,23000,,1300,Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,17.69
+2879,kaggle,Bommanahalli,South,2 BHK,17000,,1000,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,17.00
+2880,kaggle,Jaya Nagar Block 3,Other,3 BHK,56000,,1900,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,29.47
+2881,kaggle,"Arakere Mico Layout, Arakere",Other,3 BHK,43000,,1700,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,25.29
+2882,kaggle,Seshadripuram,Other,2 BHK,25000,,1100,Semi-Furnished,,2022-06-09,2026-06-05 22:46:37.485506,,22.73
+2883,kaggle,Mudhaliar layout,Other,1 BHK,9000,,500,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,18.00
+2885,kaggle,Ullal Upnagar,Other,1 BHK,6000,,300,Semi-Furnished,,2022-06-19,2026-06-05 22:46:37.485506,,20.00
+2886,kaggle,Guttahalli,Other,1 BHK,5000,,500,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,10.00
+2887,kaggle,"Dr.Shivaram Karanth Nagar, Jakkuru",Other,2 BHK,16000,,1200,Unfurnished,,2022-05-11,2026-06-05 22:46:37.485506,,13.33
+2888,kaggle,Koramangala,South,1 BHK,20000,,800,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,25.00
+2891,kaggle,Basava Nagar,Other,1 BHK,12000,,600,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,20.00
+2894,kaggle,whitefield,East,3 BHK,35000,,1800,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,19.44
+2902,kaggle,Hesaraghatta Main Road,Other,1 BHK,5500,,600,Unfurnished,,2022-06-28,2026-06-05 22:46:37.485506,,9.17
+2903,kaggle,Nri Layout,Other,2 BHK,10000,,700,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,14.29
+2904,kaggle,"Konappana Agrahara, Electronic City",South,1 BHK,7000,,250,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,28.00
+2906,kaggle,Bannerghatta Main Road,South,3 BHK,22000,,1450,Semi-Furnished,,2022-04-30,2026-06-05 22:46:37.485506,,15.17
+2907,kaggle,"Hosa Road, off Hosur Road",Other,2 BHK,19000,,1221,Unfurnished,,2022-06-30,2026-06-05 22:46:37.485506,,15.56
+2908,kaggle,"Dinnur, Hebbal",North,2 BHK,15000,,1250,Semi-Furnished,,2022-04-30,2026-06-05 22:46:37.485506,,12.00
+2910,kaggle,"Doddanekundi, Kartik Nagar",Other,2 BHK,12000,,700,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,17.14
+2912,kaggle,Attibele,Other,2 BHK,15000,,1200,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,12.50
+2913,kaggle,"Devinagar, Outer Ring Road",Other,2 BHK,23000,,600,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,38.33
+2914,kaggle,Electronic City,South,1 BHK,6500,,600,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,10.83
+2916,kaggle,"Fci Layout, Deepanjali Nagar",Other,2 BHK,12000,,900,Unfurnished,,2022-05-09,2026-06-05 22:46:37.485506,,13.33
+2919,kaggle,"Sinthan Nagar, Thanisandra",Other,3 BHK,32000,,1800,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,17.78
+2920,kaggle,Kengeri Hobli,Other,1 BHK,8000,,416,Unfurnished,,2022-05-14,2026-06-05 22:46:37.485506,,19.23
+2921,kaggle,Kodichikkanahalli Main Road,Other,2 BHK,10500,,600,Semi-Furnished,,2022-05-25,2026-06-05 22:46:37.485506,,17.50
+2922,kaggle,"Mangammanapalya, Hosur Road",Other,1 BHK,6000,,400,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,15.00
+2923,kaggle,Uttarahalli,Other,3 BHK,16000,,1200,Semi-Furnished,,2022-06-06,2026-06-05 22:46:37.485506,,13.33
+2924,kaggle,Malleshwaram,West,3 BHK,45000,,1600,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,28.12
+2925,kaggle,"Immadihalli, Whitefield",East,1 BHK,6000,,500,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,12.00
+2926,kaggle,"Bydara Halli, Benson Town",Other,1 BHK,5000,,500,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,10.00
+2927,kaggle,Yelahanka,North,3 BHK,14000,,1800,Semi-Furnished,,2022-05-01,2026-06-05 22:46:37.485506,,7.78
+2928,kaggle,Electronic City,South,2 BHK,20000,,900,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,22.22
+2930,kaggle,"Chikkana Layout, Kammanahalli",Other,1 BHK,5500,,600,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,9.17
+2931,kaggle,"Langford Town, Shanti Nagar, Hosur Road",Other,3 BHK,55000,,1800,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,30.56
+2932,kaggle,"Jaya Nagar Block 5, Jayanagar",South,2 BHK,15000,,976,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,15.37
+2933,kaggle,Bommanahalli,South,1 BHK,8500,,350,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,24.29
+2934,kaggle,Vidyaranyapura,Other,2 BHK,15000,,1100,Semi-Furnished,,2022-07-02,2026-06-05 22:46:37.485506,,13.64
+2935,kaggle,"Guddadahalli, Mysore Road",Other,2 BHK,12000,,500,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,24.00
+2936,kaggle,"Electronics City Phase 1, Electronic City",South,1 BHK,7500,,600,Semi-Furnished,,2022-05-22,2026-06-05 22:46:37.485506,,12.50
+2900,kaggle,"Murugeshpalya, Airport Road",East,2 BHK,21000,,1100,Unfurnished,,2022-06-12,2026-06-05 22:46:37.485506,,19.09
+2878,kaggle,Mahadevapura,East,1 BHK,15000,,600,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,25.00
+2895,kaggle,C V Raman Nagar,East,1 BHK,7000,,400,Unfurnished,,2022-07-06,2026-06-05 22:46:37.485506,,17.50
+2889,kaggle,Banaswadi,East,3 BHK,28000,,1281,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,21.86
+2918,kaggle,"Ombr Layout, Banaswadi",East,2 BHK,12500,,500,Semi-Furnished,,2022-05-28,2026-06-05 22:46:37.485506,,25.00
+2876,kaggle,"Jp Nagar Phase 5, J P Nagar, Outer Ring Road",South,2 BHK,20000,,1150,Unfurnished,,2022-04-28,2026-06-05 22:46:37.485506,,17.39
+2890,kaggle,"Jp Nagar Phase 6, J P Nagar, Outer Ring Road",South,2 BHK,18000,,1450,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,12.41
+2898,kaggle,"Yelachenahalli, Kumaraswamy Layout, Kanakapura Road",South,2 BHK,20000,,1100,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,18.18
+2874,kaggle,Gottigere,South,2 BHK,18000,,1000,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,18.00
+2896,kaggle,"Banashankari Stage 3, Banashankari",South,1 BHK,7500,,600,Unfurnished,,2022-06-22,2026-06-05 22:46:37.485506,,12.50
+2892,kaggle,Mathikere,North,2 BHK,20000,,980,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,20.41
+2917,kaggle,Mathikere,North,2 BHK,10000,,1000,Semi-Furnished,,2022-05-17,2026-06-05 22:46:37.485506,,10.00
+2884,kaggle,"Jalahalli, Jalahalli, Outer Ring Road",North,3 BHK,31000,,1757,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,17.64
+2909,kaggle,"Chikkasandra-Jalahalli West, Jalahalli West",North,2 BHK,10500,,700,Semi-Furnished,,2022-05-01,2026-06-05 22:46:37.485506,,15.00
+2901,kaggle,Yeshwantpur,West,2 BHK,15000,,700,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,21.43
+2937,kaggle,Bannerghatta Main Road,South,2 BHK,16000,,1100,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,14.55
+2938,kaggle,"Hennur, Hennur Bagalur Road",Other,2 BHK,20000,,1150,Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,17.39
+2939,kaggle,Basava Nagar,Other,2 BHK,14500,,850,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,17.06
+2940,kaggle,Meenakshi Layout Hosa Road,Other,1 BHK,6000,,600,Semi-Furnished,,2022-05-24,2026-06-05 22:46:37.485506,,10.00
+2942,kaggle,"Kattigenahalli, Bellary Road",Other,1 BHK,7000,,300,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,23.33
+2943,kaggle,Old Airport Road,Other,2 BHK,27500,,1130,Semi-Furnished,,2022-06-22,2026-06-05 22:46:37.485506,,24.34
+2944,kaggle,Vijayanagar,South,2 BHK,18000,,1200,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,15.00
+2945,kaggle,Varthur,Other,2 BHK,10000,,1000,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,10.00
+2946,kaggle,"Electronics City Phase 1, Electronic City",South,3 BHK,31000,,1700,Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,18.24
+2948,kaggle,Btm Layout,South,1 BHK,11000,,300,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,36.67
+2949,kaggle,"Peenya Industrial Area, Tumkur Road",Other,1 BHK,4500,,600,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,7.50
+2952,kaggle,Nandini Layout,Other,1 BHK,9000,,500,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,18.00
+2953,kaggle,Basaveshwar Nagar,Other,2 BHK,16000,,1050,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,15.24
+2954,kaggle,"Chamundi Nagar, Rajajinagar",West,1 BHK,5000,,350,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,14.29
+2955,kaggle,"Ilyas Nagar, Kumaraswamy Layout",Other,2 BHK,10000,,1000,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,10.00
+2958,kaggle,Hebbal,North,2 BHK,16000,,1400,Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,11.43
+2959,kaggle,"Nobo Nagar, Kalena Agrahara",Other,2 BHK,17000,,1387,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,12.26
+2961,kaggle,Electronic City,South,2 BHK,12000,,1020,Unfurnished,,2022-06-03,2026-06-05 22:46:37.485506,,11.76
+2962,kaggle,Byrathi,Other,1 BHK,9000,,600,Semi-Furnished,,2022-05-30,2026-06-05 22:46:37.485506,,15.00
+2963,kaggle,Doddanagamangala,Other,1 BHK,6000,,400,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,15.00
+2965,kaggle,"Btm Layout Stage 2, BTM Layout",South,3 BHK,30000,,1400,Furnished,,2022-05-12,2026-06-05 22:46:37.485506,,21.43
+2966,kaggle,"Hoodi Circle, Hoodi",Other,2 BHK,20000,,1050,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,19.05
+2967,kaggle,whitefield,East,2 BHK,15000,,800,Unfurnished,,2022-07-04,2026-06-05 22:46:37.485506,,18.75
+2968,kaggle,Kodi Halli,Other,2 BHK,20000,,1100,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,18.18
+2969,kaggle,Kammanahalli,Other,3 BHK,25000,,1500,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,16.67
+2970,kaggle,Yelechenahalli,Other,1 BHK,9000,,800,Semi-Furnished,,2022-06-19,2026-06-05 22:46:37.485506,,11.25
+2973,kaggle,"Kattigenahalli, Bellary Road",Other,1 BHK,7000,,450,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,15.56
+2974,kaggle,"Electronic City Phase 2, Electronic City",South,3 BHK,30000,,1425,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,21.05
+2976,kaggle,Kadugodi,Other,1 BHK,8000,,700,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,11.43
+2977,kaggle,Jayanagar,South,2 BHK,20000,,1100,Semi-Furnished,,2022-05-11,2026-06-05 22:46:37.485506,,18.18
+2978,kaggle,"Electronic City Phase 2, Electronic City",South,3 BHK,30000,,1645,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,18.24
+2979,kaggle,"Cleveland Town, Frazer Town",Other,3 BHK,120000,,3276,Semi-Furnished,,2022-05-24,2026-06-05 22:46:37.485506,,36.63
+2980,kaggle,Kengeri Satellite Town,Other,1 BHK,7000,,500,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,14.00
+2981,kaggle,Akshayanagar,Other,2 BHK,10000,,600,Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,16.67
+2982,kaggle,HMT Layout Nagasandra,Other,1 BHK,5000,,600,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,8.33
+2983,kaggle,Begur Road,Other,3 BHK,30000,,1893,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,15.85
+2984,kaggle,Nimbekaipura,Other,1 BHK,6500,,450,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,14.44
+2991,kaggle,whitefield,East,4 BHK,130000,,4800,Semi-Furnished,,2022-07-02,2026-06-05 22:46:37.485506,,27.08
+2993,kaggle,Nagarabhavi BDA complex,Other,1 BHK,70000,,800,Unfurnished,,2022-06-12,2026-06-05 22:46:37.485506,,87.50
+2995,kaggle,Varanasi,Other,2 BHK,9750,,575,Semi-Furnished,,2022-06-22,2026-06-05 22:46:37.485506,,16.96
+2996,kaggle,Manayata Tech Park,Other,2 BHK,23000,,1066,Unfurnished,,2022-04-29,2026-06-05 22:46:37.485506,,21.58
+2997,kaggle,Munnekollal,Other,2 BHK,12000,,850,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,14.12
+2998,kaggle,"Bhel Township- Malleshwaram, Malleshwaram",West,3 BHK,60000,,1550,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,38.71
+2989,kaggle,"Kr Garden-Murugeshpalya, Murugeshpalya, Airport Road",East,1 BHK,16500,,600,Unfurnished,,2022-07-09,2026-06-05 22:46:37.485506,,27.50
+2994,kaggle,"Murugeshpalya, Airport Road",East,1 BHK,22000,,455,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,48.35
+3001,kaggle,"Murugeshpalya, Airport Road",East,1 BHK,11000,,450,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,24.44
+2956,kaggle,Mahadevapura,East,1 BHK,15000,,600,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,25.00
+2964,kaggle,Mahadevapura,East,1 BHK,20000,,550,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,36.36
+2951,kaggle,Ramamurthy Nagar,East,2 BHK,10000,,1200,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,8.33
+2957,kaggle,Yeshwantpur,West,1 BHK,3500,,150,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,23.33
+2947,kaggle,Horamavu,East,2 BHK,15000,,1100,Semi-Furnished,,2022-06-17,2026-06-05 22:46:37.485506,,13.64
+2971,kaggle,J P Nagar,South,2 BHK,17000,,800,Semi-Furnished,,2022-07-08,2026-06-05 22:46:37.485506,,21.25
+2985,kaggle,"Jp Nagar Phase 7, J P Nagar",South,1 BHK,10000,,650,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,15.38
+2990,kaggle,J P Nagar,South,1 BHK,15000,,600,Furnished,,2022-06-06,2026-06-05 22:46:37.485506,,25.00
+2987,kaggle,Kanakapura Road,South,2 BHK,30000,,1296,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,23.15
+2972,kaggle,Padmanabha Nagar,South,2 BHK,16500,,1200,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,13.75
+2992,kaggle,"Srinagar, Banashankari",South,2 BHK,15000,,1000,Semi-Furnished,,2022-05-24,2026-06-05 22:46:37.485506,,15.00
+3000,kaggle,"Srinagar, Banashankari",South,2 BHK,12000,,800,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,15.00
+2986,kaggle,indiranagar near bda complex,Central,1 BHK,18000,,400,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,45.00
+2941,kaggle,"Kaggadasapura, Indira nagar",Central,2 BHK,14000,,900,Semi-Furnished,,2022-06-02,2026-06-05 22:46:37.485506,,15.56
+2988,kaggle,"Kaggadasapura, Indira nagar",Central,2 BHK,20000,,1000,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,20.00
+3002,kaggle,"Coffee Board Layout, Nagavara",Other,2 BHK,19000,,1350,Semi-Furnished,,2022-06-01,2026-06-05 22:46:37.485506,,14.07
+3003,kaggle,Rampura,Other,2 BHK,10000,,1350,Semi-Furnished,,2022-06-14,2026-06-05 22:46:37.485506,,7.41
+3004,kaggle,"Mallathahalli, Outer Ring Road",Other,1 BHK,7500,,600,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,12.50
+3005,kaggle,Basavanagudi,Other,3 BHK,55000,,2150,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,25.58
+3006,kaggle,Hosakerehalli,Other,2 BHK,11000,,1080,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,10.19
+3007,kaggle,Old Airport Road,Other,3 BHK,50000,,1450,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,34.48
+3008,kaggle,Anantapura,Other,2 BHK,13500,,700,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,19.29
+3009,kaggle,Bannerghatta Main Road,South,2 BHK,16500,,1200,Semi-Furnished,,2022-06-03,2026-06-05 22:46:37.485506,,13.75
+3010,kaggle,"Richmond Town, Richmond Town",Central,3 BHK,120000,,2110,Unfurnished,,2022-07-01,2026-06-05 22:46:37.485506,,56.87
+3012,kaggle,"Jyothi Nagar, Dooravani Nagar",Other,2 BHK,10000,,850,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,11.76
+3015,kaggle,Kudlu,Other,1 BHK,11000,,600,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,18.33
+3016,kaggle,Nandini Layout,Other,1 BHK,9000,,450,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,20.00
+3017,kaggle,Frazer Town,Other,3 BHK,60000,,2080,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,28.85
+3022,kaggle,Bannerghatta Main Road,South,2 BHK,17000,,1100,Semi-Furnished,,2022-06-06,2026-06-05 22:46:37.485506,,15.45
+3024,kaggle,Vidyaranyapura,Other,2 BHK,16500,,1050,Furnished,,2022-07-05,2026-06-05 22:46:37.485506,,15.71
+3028,kaggle,"Hmt Layout Block 4, Vidyaranyapura",Other,3 BHK,15000,,750,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,20.00
+3029,kaggle,Hennur Main Road,Other,3 BHK,35000,,1600,Semi-Furnished,,2022-06-18,2026-06-05 22:46:37.485506,,21.88
+3030,kaggle,Electronic City,South,2 BHK,13000,,1180,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,11.02
+3031,kaggle,Kothanur,Other,2 BHK,12000,,1400,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,8.57
+3032,kaggle,whitefield,East,1 BHK,10000,,750,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,13.33
+3033,kaggle,Visthar,Other,2 BHK,9000,,580,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,15.52
+3035,kaggle,Sarjapur Road,East,2 BHK,8900,,1100,Semi-Furnished,,2022-05-11,2026-06-05 22:46:37.485506,,8.09
+3036,kaggle,Basavanagudi,Other,3 BHK,40000,,1900,Unfurnished,,2022-06-30,2026-06-05 22:46:37.485506,,21.05
+3037,kaggle,"Syndicate Bank Colony, Arakere",Other,2 BHK,24000,,1105,Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,21.72
+3040,kaggle,Uttarahalli,Other,1 BHK,8000,,600,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,13.33
+3042,kaggle,"Hennur, Hennur Bagalur Road",Other,2 BHK,27000,,1200,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,22.50
+3043,kaggle,Bhuvaneswari Nagar,Other,2 BHK,17000,,900,Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,18.89
+3044,kaggle,"Bhel Township- Malleshwaram, Malleshwaram",West,3 BHK,50000,,1250,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,40.00
+3045,kaggle,"Ews Colony, BTM Layout",South,2 BHK,14000,,800,Unfurnished,,2022-06-22,2026-06-05 22:46:37.485506,,17.50
+3046,kaggle,Peenya 2nd Stage,Other,1 BHK,5000,,500,Unfurnished,,2022-05-14,2026-06-05 22:46:37.485506,,10.00
+3047,kaggle,"Electronic City Phase 2, Electronic City",South,2 BHK,8000,,600,Semi-Furnished,,2022-04-28,2026-06-05 22:46:37.485506,,13.33
+3050,kaggle,Kogilu,Other,3 BHK,20000,,1252,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,15.97
+3051,kaggle,"Bhel Layout, Rajarajeshwari Nagar",Other,2 BHK,11000,,1200,Semi-Furnished,,2022-05-20,2026-06-05 22:46:37.485506,,9.17
+3052,kaggle,Kamala Nagar,Other,2 BHK,8500,,440,Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,19.32
+3054,kaggle,Kodigenahalli,Other,2 BHK,15000,,1200,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,12.50
+3055,kaggle,Begur,Other,2 BHK,11000,,950,Semi-Furnished,,2022-05-18,2026-06-05 22:46:37.485506,,11.58
+3056,kaggle,Battarahalli,Other,2 BHK,11000,,800,Unfurnished,,2022-06-27,2026-06-05 22:46:37.485506,,13.75
+3057,kaggle,Budigere Cross,Other,2 BHK,9000,,1000,Semi-Furnished,,2022-05-24,2026-06-05 22:46:37.485506,,9.00
+3058,kaggle,"Dollars Colony-Rmv Extension Stage 2, RMV Extension Stage 2",Other,3 BHK,120000,,2770,Semi-Furnished,,2022-07-09,2026-06-05 22:46:37.485506,,43.32
+3062,kaggle,"Itpl, Whitefield",East,1 BHK,18000,,600,Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,30.00
+3063,kaggle,"Hsr Layout Sector 6, HSR Layout",South,3 BHK,45000,,2200,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,20.45
+3066,kaggle,Bommanahalli,South,2 BHK,15000,,1180,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,12.71
+3065,kaggle,Ramamurthy Nagar,East,2 BHK,10000,,1200,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,8.33
+3026,kaggle,"Horamavu Agara, Hormavu",East,2 BHK,12000,,800,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,15.00
+3023,kaggle,Banaswadi,East,1 BHK,8000,,350,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,22.86
+3027,kaggle,"Jp Nagar Phase 7, J P Nagar",South,2 BHK,17000,,700,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,24.29
+3013,kaggle,"Bikasipura, kanakapura Road",South,1 BHK,7000,,400,Unfurnished,,2022-05-10,2026-06-05 22:46:37.485506,,17.50
+3014,kaggle,Gottigere,South,1 BHK,18000,,800,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,22.50
+3048,kaggle,Gottigere Main Rd,South,3 BHK,20000,,904,Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,22.12
+3020,kaggle,Padmanabha Nagar,South,2 BHK,16000,,1100,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,14.55
+3039,kaggle,Padmanabha Nagar,South,2 BHK,16000,,1281,Semi-Furnished,,2022-06-13,2026-06-05 22:46:37.485506,,12.49
+3061,kaggle,Padmanabha Nagar,South,1 BHK,5000,,144,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,34.72
+3011,kaggle,Bilekahalli,South,1 BHK,7000,,500,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,14.00
+3059,kaggle,Bilekahalli,South,2 BHK,15000,,800,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,18.75
+3019,kaggle,Banashankari,South,2 BHK,12500,,650,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,19.23
+3025,kaggle,"Banashankari Stage 3, Banashankari",South,2 BHK,13000,,600,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,21.67
+3021,kaggle,Indira Nagar,Central,2 BHK,30000,,1025,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,29.27
+3064,kaggle,Indira Nagar,Central,2 BHK,21000,,1005,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,20.90
+3060,kaggle,Mathikere,North,1 BHK,7000,,400,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,17.50
+3038,kaggle,"Jalahalli, Jalahalli, Outer Ring Road",North,2 BHK,18500,,1080,Furnished,,2022-07-05,2026-06-05 22:46:37.485506,,17.13
+3067,kaggle,T Dasarahalli,Other,2 BHK,11000,,900,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,12.22
+3068,kaggle,Hosa Road Junction,Other,1 BHK,7500,,500,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,15.00
+3069,kaggle,"East Of Ngef Layout, Bennigana Halli",Other,3 BHK,22000,,1100,Semi-Furnished,,2022-07-08,2026-06-05 22:46:37.485506,,20.00
+3071,kaggle,Parappana Agrahara,Other,1 BHK,6000,,400,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,15.00
+3072,kaggle,"Ags Layout, Hebbal",North,2 BHK,20000,,1250,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,16.00
+3073,kaggle,Marathahalli,East,2 BHK,18000,,600,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,30.00
+3076,kaggle,whitefield,East,2 BHK,36000,,1200,Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,30.00
+3077,kaggle,Chikkalasandra,Other,1 BHK,7500,,400,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,18.75
+3079,kaggle,Doddabanahalli,Other,3 BHK,18000,,1100,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,16.36
+3080,kaggle,"Electronic City Phase 2, Electronic City",South,1 BHK,6500,,700,Unfurnished,,2022-06-30,2026-06-05 22:46:37.485506,,9.29
+3081,kaggle,Chikkabanavara,Other,2 BHK,6000,,600,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,10.00
+3082,kaggle,Kodigenahalli,Other,2 BHK,18000,,1200,Semi-Furnished,,2022-06-09,2026-06-05 22:46:37.485506,,15.00
+3083,kaggle,"Shivananda Nagar, Vijayanagar",South,2 BHK,12000,,900,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,13.33
+3084,kaggle,"Jaya Nagar Block 8, Jayanagar",South,3 BHK,75000,,1850,Semi-Furnished,,2022-05-12,2026-06-05 22:46:37.485506,,40.54
+3085,kaggle,Kammanahalli,Other,2 BHK,25000,,900,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,27.78
+3086,kaggle,Hulimavu,Other,2 BHK,20000,,1050,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,19.05
+3087,kaggle,Vidyaranyapura,Other,2 BHK,8000,,1200,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,6.67
+3088,kaggle,Electronic City,South,2 BHK,11000,,600,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,18.33
+3089,kaggle,"Dodda Nekkundi Extension, Kartik Nagar, Outer Ring Road",Other,3 BHK,65000,,1480,Furnished,,2022-07-09,2026-06-05 22:46:37.485506,,43.92
+3090,kaggle,Kasturi Nagar,Other,1 BHK,6000,,400,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,15.00
+3091,kaggle,Langford Gardens,Other,4 BHK,160000,,4500,Unfurnished,,2022-06-30,2026-06-05 22:46:37.485506,,35.56
+3092,kaggle,"Maruthi Extesnion, Rajajinagar",West,1 BHK,11000,,600,Semi-Furnished,,2022-06-29,2026-06-05 22:46:37.485506,,18.33
+3095,kaggle,"Shampura, Kaval Byrasandra",Other,3 BHK,12000,,1100,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,10.91
+3096,kaggle,Bommasandra,Other,3 BHK,21500,,1320,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,16.29
+3097,kaggle,Rajajinagar,West,2 BHK,9300,,500,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,18.60
+3098,kaggle,Choodasandra,Other,1 BHK,6000,,600,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,10.00
+3099,kaggle,Arakere,Other,2 BHK,13000,,650,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,20.00
+3100,kaggle,New Thippasandra,Other,1 BHK,7000,,300,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,23.33
+3101,kaggle,Battarahalli,Other,2 BHK,14000,,1000,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,14.00
+3104,kaggle,New Bel Road,Other,1 BHK,12500,,600,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,20.83
+3105,kaggle,Gunjur,Other,1 BHK,7000,,400,Semi-Furnished,,2022-04-28,2026-06-05 22:46:37.485506,,17.50
+3106,kaggle,Anantapura,Other,2 BHK,13000,,1000,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,13.00
+3107,kaggle,Hulimavu,Other,2 BHK,20000,,1100,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,18.18
+3109,kaggle,Hongasandra,Other,1 BHK,6000,,600,Unfurnished,,2022-04-28,2026-06-05 22:46:37.485506,,10.00
+3110,kaggle,Chamrajpet,Other,2 BHK,15000,,800,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,18.75
+3111,kaggle,Sahakara Nagar,North,2 BHK,20000,,1115,Furnished,,2022-05-30,2026-06-05 22:46:37.485506,,17.94
+3116,kaggle,Hebbal,North,4 BHK,120000,,4105,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,29.23
+3117,kaggle,Adugodi,Other,2 BHK,10000,,800,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,12.50
+3118,kaggle,Vijayanagar,South,2 BHK,8000,,500,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,16.00
+3119,kaggle,Chikkalasandra,Other,2 BHK,9500,,700,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,13.57
+3120,kaggle,Sathnur,Other,2 BHK,9000,,1055,Semi-Furnished,,2022-05-22,2026-06-05 22:46:37.485506,,8.53
+3122,kaggle,Electronic City,South,2 BHK,14000,,950,Unfurnished,,2022-06-29,2026-06-05 22:46:37.485506,,14.74
+3123,kaggle,Banjara Layout,Other,1 BHK,7000,,450,Semi-Furnished,,2022-05-28,2026-06-05 22:46:37.485506,,15.56
+3125,kaggle,"Electronic City Phase 2, Electronic City",South,1 BHK,8000,,400,Semi-Furnished,,2022-05-24,2026-06-05 22:46:37.485506,,20.00
+3127,kaggle,Vijay Enclave,Other,2 BHK,12000,,600,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,20.00
+3128,kaggle,Vidyaranyapura,Other,1 BHK,5000,,500,Unfurnished,,2022-07-04,2026-06-05 22:46:37.485506,,10.00
+3129,kaggle,Hongasandra,Other,1 BHK,6000,,400,Unfurnished,,2022-05-14,2026-06-05 22:46:37.485506,,15.00
+3131,kaggle,Bommanahalli,South,2 BHK,12000,,650,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,18.46
+3132,kaggle,Ejipura,Other,2 BHK,15000,,600,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,25.00
+3074,kaggle,"Murugeshpalya, Airport Road",East,2 BHK,13000,,780,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,16.67
+3102,kaggle,"A Narayanapura, Mahadevapura",East,2 BHK,14000,,1200,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,11.67
+3070,kaggle,"Malleshpalya, Kaggadasapura",East,2 BHK,17000,,1100,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,15.45
+3078,kaggle,Maruthi Sevanagar,East,1 BHK,9000,,500,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,18.00
+3108,kaggle,"Ombr Layout, Banaswadi",East,2 BHK,24000,,1300,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,18.46
+3124,kaggle,Banaswadi,East,3 BHK,24000,,1200,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,20.00
+3093,kaggle,"Jp Nagar Phase 5, J P Nagar, Outer Ring Road",South,2 BHK,20000,,1100,Unfurnished,,2022-05-11,2026-06-05 22:46:37.485506,,18.18
+3075,kaggle,Kanakapura Road,South,2 BHK,38000,,1274,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,29.83
+3114,kaggle,Kanakapura Road,South,3 BHK,22000,,1500,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,14.67
+3094,kaggle,Rayasandra,South,1 BHK,5500,,600,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,9.17
+3103,kaggle,Banashankari,South,1 BHK,6000,,650,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,9.23
+3126,kaggle,Indira Nagar,Central,1 BHK,22000,,400,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,55.00
+3113,kaggle,Mathikere,North,3 BHK,35000,,1278,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,27.39
+3121,kaggle,"Jalahalli, Jalahalli, Outer Ring Road",North,3 BHK,31000,,1325,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,23.40
+3133,kaggle,Hongasandra,Other,2 BHK,14000,,800,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,17.50
+3135,kaggle,"Hal Layout, Hosur Road",Other,2 BHK,40000,,1380,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,28.99
+3137,kaggle,Hulimavu,Other,2 BHK,15000,,825,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,18.18
+3138,kaggle,Varthur,Other,2 BHK,9500,,700,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,13.57
+3139,kaggle,Subramanyapura,Other,2 BHK,15000,,1110,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,13.51
+3140,kaggle,"Panduranga Nagar, bannerghatta main Road",South,2 BHK,15000,,800,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,18.75
+3141,kaggle,Vijayanagar,South,2 BHK,10000,,810,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,12.35
+3142,kaggle,Yelahanka New Town,North,4 BHK,15000,,1150,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,13.04
+3143,kaggle,Mailasandar,Other,1 BHK,7000,,700,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,10.00
+3145,kaggle,"Hoodi, Hoodi",Other,3 BHK,26969,,1400,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,19.26
+3146,kaggle,Channasandra,Other,1 BHK,8000,,450,Unfurnished,,2022-06-12,2026-06-05 22:46:37.485506,,17.78
+3148,kaggle,Ulsoor Road,Other,3 BHK,30000,,1500,Semi-Furnished,,2022-07-05,2026-06-05 22:46:37.485506,,20.00
+3151,kaggle,Rajajinagar,West,1 BHK,10000,,600,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,16.67
+3152,kaggle,Malleshwaram,West,1 BHK,6000,,150,Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,40.00
+3154,kaggle,Basavanapura,Other,2 BHK,18000,,1300,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,13.85
+3155,kaggle,Bommanahalli,South,4 BHK,30000,,1900,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,15.79
+3156,kaggle,"Aditya Nagar-Vidyaranyapura, Vidyaranyapura",Other,2 BHK,10000,,300,Semi-Furnished,,2022-05-17,2026-06-05 22:46:37.485506,,33.33
+3157,kaggle,Varthur,Other,1 BHK,15000,,700,Semi-Furnished,,2022-04-28,2026-06-05 22:46:37.485506,,21.43
+3158,kaggle,Koramangala Block 1,South,2 BHK,70000,,1325,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,52.83
+3159,kaggle,Amrutahalli,Other,2 BHK,19000,,894,Unfurnished,,2022-06-12,2026-06-05 22:46:37.485506,,21.25
+3160,kaggle,Electronic City,South,2 BHK,20000,,1100,Semi-Furnished,,2022-06-11,2026-06-05 22:46:37.485506,,18.18
+3161,kaggle,Begur,Other,2 BHK,9000,,600,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,15.00
+3162,kaggle,Vijayanagar,South,1 BHK,5000,,500,Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,10.00
+3163,kaggle,ITI Layout,Other,2 BHK,27500,,1000,Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,27.50
+3164,kaggle,Thambuchetty Palya,Other,2 BHK,16000,,850,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,18.82
+3165,kaggle,"Pai Layout-Hulimavu, Hulimavu",Other,1 BHK,12000,,400,Semi-Furnished,,2022-07-05,2026-06-05 22:46:37.485506,,30.00
+3166,kaggle,Outer Ring Road,Other,3 BHK,75000,,2400,Semi-Furnished,,2022-07-09,2026-06-05 22:46:37.485506,,31.25
+3167,kaggle,Btm Layout,South,2 BHK,20000,,1200,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,16.67
+3168,kaggle,Varanasi,Other,1 BHK,7000,,500,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,14.00
+3169,kaggle,Hebbal Kempapura,North,1 BHK,11000,,550,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,20.00
+3170,kaggle,Nagarbhavi,Other,1 BHK,13500,,450,Semi-Furnished,,2022-06-11,2026-06-05 22:46:37.485506,,30.00
+3171,kaggle,Garvebhavi Palya,Other,1 BHK,17000,,430,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,39.53
+3172,kaggle,Halasuru,Other,3 BHK,55000,,2430,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,22.63
+3173,kaggle,Electronic City,South,1 BHK,13000,,500,Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,26.00
+3174,kaggle,Electronic City,South,2 BHK,11000,,600,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,18.33
+3177,kaggle,"Kattigenahalli, Bellary Road",Other,2 BHK,8500,,1000,Unfurnished,,2022-05-22,2026-06-05 22:46:37.485506,,8.50
+3178,kaggle,Mylasandra,Other,3 BHK,30000,,1350,Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,22.22
+3179,kaggle,Rajarajeshwari Nagar,Other,3 BHK,22000,,1500,Furnished,,2022-07-02,2026-06-05 22:46:37.485506,,14.67
+3181,kaggle,Kithiganur,Other,3 BHK,15000,,800,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,18.75
+3182,kaggle,Kamala Nagar,Other,2 BHK,10000,,1000,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,10.00
+3183,kaggle,Nagondanahalli,Other,2 BHK,12500,,800,Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,15.62
+3184,kaggle,Byrathi,Other,3 BHK,24000,,1550,Semi-Furnished,,2022-06-29,2026-06-05 22:46:37.485506,,15.48
+3185,kaggle,Guttahalli,Other,2 BHK,32000,,1000,Unfurnished,,2022-07-04,2026-06-05 22:46:37.485506,,32.00
+3186,kaggle,whitefield,East,2 BHK,19000,,800,Unfurnished,,2022-07-04,2026-06-05 22:46:37.485506,,23.75
+3188,kaggle,Laggere,Other,2 BHK,5500,,500,Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,11.00
+3189,kaggle,"Hsr Layout Sector 3, HSR Layout",South,1 BHK,15000,,500,Semi-Furnished,,2022-07-08,2026-06-05 22:46:37.485506,,30.00
+3190,kaggle,"Seetharampalya, Hoodi",Other,2 BHK,14000,,900,Semi-Furnished,,2022-05-30,2026-06-05 22:46:37.485506,,15.56
+3192,kaggle,Thanisandra,Other,2 BHK,14000,,1000,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,14.00
+3193,kaggle,Sarjapur Road,East,3 BHK,43000,,1680,Unfurnished,,2022-07-06,2026-06-05 22:46:37.485506,,25.60
+3195,kaggle,Lavelle Road,Other,2 BHK,50000,,1200,Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,41.67
+3196,kaggle,"Manyata Residency, Thanisandra",Other,1 BHK,15000,,900,Semi-Furnished,,2022-06-25,2026-06-05 22:46:37.485506,,16.67
+3199,kaggle,Abbigere,Other,1 BHK,6000,,300,Unfurnished,,2022-05-14,2026-06-05 22:46:37.485506,,20.00
+3134,kaggle,"Murugeshpalya, Airport Road",East,1 BHK,22000,,460,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,47.83
+3149,kaggle,Mahadevapura,East,1 BHK,6500,,200,Semi-Furnished,,2022-05-20,2026-06-05 22:46:37.485506,,32.50
+3180,kaggle,Ramamurthy Nagar,East,2 BHK,15000,,1000,Unfurnished,,2022-05-12,2026-06-05 22:46:37.485506,,15.00
+3144,kaggle,CV Raman Nagar,East,1 BHK,10000,,300,Unfurnished,,2022-07-04,2026-06-05 22:46:37.485506,,33.33
+3136,kaggle,Banaswadi,East,1 BHK,12000,,500,Semi-Furnished,,2022-06-22,2026-06-05 22:46:37.485506,,24.00
+3150,kaggle,J P Nagar,South,3 BHK,22000,,1500,Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,14.67
+3191,kaggle,"Jp Nagar Phase 7, J P Nagar",South,3 BHK,27000,,1200,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,22.50
+3147,kaggle,Kanakapura Road,South,3 BHK,52000,,1603,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,32.44
+3187,kaggle,"Bikasipura, kanakapura Road",South,1 BHK,9000,,700,Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,12.86
+3176,kaggle,Bilekahalli,South,2 BHK,23500,,950,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,24.74
+3197,kaggle,"Vijaya Bank Colony -Bilekahalli, Bilekahalli",South,3 BHK,25000,,1600,Semi-Furnished,,2022-06-24,2026-06-05 22:46:37.485506,,15.62
+3175,kaggle,"Mallasandra, Jalahalli West",North,2 BHK,16000,,805,Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,19.88
+3200,kaggle,Vaderahalli,Other,1 BHK,5000,,400,Unfurnished,,2022-05-14,2026-06-05 22:46:37.485506,,12.50
+3201,kaggle,Btm Layout,South,1 BHK,10000,,550,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,18.18
+3202,kaggle,"Nallurhalli, Whitefield, Borewell Road",East,1 BHK,15000,,400,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,37.50
+3203,kaggle,T Dasarahalli,Other,1 BHK,5000,,500,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,10.00
+3204,kaggle,"Maruthi Nagar-Yelahanka, Yelahanka",North,3 BHK,17000,,1200,Unfurnished,,2022-05-12,2026-06-05 22:46:37.485506,,14.17
+3206,kaggle,Srinivaspura,Other,3 BHK,35000,,2100,Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,16.67
+3207,kaggle,Ashok Nagar,Other,2 BHK,35000,,800,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,43.75
+3209,kaggle,Arakere,Other,4 BHK,130000,,4341,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,29.95
+3210,kaggle,Jayanagar,South,2 BHK,35000,,1300,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,26.92
+3211,kaggle,Halasuru,Other,1 BHK,10000,,400,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,25.00
+3214,kaggle,"Hennur, Hennur Bagalur Road",Other,1 BHK,8000,,400,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,20.00
+3216,kaggle,Hsr Layout,South,2 BHK,25000,,1200,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,20.83
+3218,kaggle,Sanjay Nagar Stage 2,Other,2 BHK,30000,,1700,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,17.65
+3219,kaggle,Ramachandrapuram Rajajinagar,West,2 BHK,22000,,846,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,26.00
+3220,kaggle,Kyalasanahalli,Other,2 BHK,14000,,1100,Unfurnished,,2022-06-29,2026-06-05 22:46:37.485506,,12.73
+3221,kaggle,"Chamundeshwari Layout, Arakere",Other,2 BHK,12000,,700,Semi-Furnished,,2022-07-08,2026-06-05 22:46:37.485506,,17.14
+3222,kaggle,Kengeri,Other,2 BHK,10000,,110,Unfurnished,,2022-06-26,2026-06-05 22:46:37.485506,,90.91
+3223,kaggle,Kalyan Nagar,Other,3 BHK,25000,,900,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,27.78
+3224,kaggle,Haralur Road,Other,1 BHK,25000,,420,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,59.52
+3227,kaggle,Vijayanagar,South,1 BHK,7000,,900,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,7.78
+3229,kaggle,whitefield,East,4 BHK,250000,,5700,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,43.86
+3230,kaggle,"Hsr Layout Sector 2, HSR Layout",South,1 BHK,19000,,625,Unfurnished,,2022-07-09,2026-06-05 22:46:37.485506,,30.40
+3231,kaggle,Sun City Layout,Other,4 BHK,42500,,1760,Unfurnished,,2022-04-29,2026-06-05 22:46:37.485506,,24.15
+3232,kaggle,Nagarbhavi,Other,2 BHK,11000,,600,Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,18.33
+3233,kaggle,Annapurneshwari Nagar,Other,2 BHK,18000,,1200,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,15.00
+3234,kaggle,Ragavendra Nagar,Other,1 BHK,4300,,300,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,14.33
+3235,kaggle,Attiguppe,Other,2 BHK,9000,,900,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,10.00
+3236,kaggle,Electronic City,South,1 BHK,7000,,450,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,15.56
+3237,kaggle,"Mcechs Layout, Jakkuru",Other,2 BHK,15000,,1050,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,14.29
+3238,kaggle,Kengeri,Other,1 BHK,4800,,580,Semi-Furnished,,2022-05-07,2026-06-05 22:46:37.485506,,8.28
+3239,kaggle,Kalkere,Other,2 BHK,15000,,600,Unfurnished,,2022-06-10,2026-06-05 22:46:37.485506,,25.00
+3240,kaggle,Marathahalli,East,1 BHK,18000,,550,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,32.73
+3242,kaggle,Yemalur,Other,1 BHK,9500,,300,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,31.67
+3243,kaggle,Abbigere,Other,2 BHK,12000,,1200,Semi-Furnished,,2022-05-30,2026-06-05 22:46:37.485506,,10.00
+3244,kaggle,"Btm Layout Stage 2, BTM Layout",South,1 BHK,9000,,900,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,10.00
+3247,kaggle,Arakere,Other,2 BHK,11000,,900,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,12.22
+3248,kaggle,Seshadripuram,Other,1 BHK,12500,,500,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,25.00
+3249,kaggle,whitefield,East,3 BHK,21000,,1360,Semi-Furnished,,2022-07-05,2026-06-05 22:46:37.485506,,15.44
+3250,kaggle,Electronic City,South,3 BHK,17681,,1110,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,15.93
+3251,kaggle,Virupakshapura,Other,3 BHK,28000,,2400,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,11.67
+3253,kaggle,Mysore Road,Other,2 BHK,25000,,980,Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,25.51
+3254,kaggle,Ramaswami Palya kammanhalli,Other,2 BHK,13000,,600,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,21.67
+3255,kaggle,"Mallathahalli, Outer Ring Road",Other,2 BHK,8000,,200,Furnished,,2022-05-15,2026-06-05 22:46:37.485506,,40.00
+3256,kaggle,Benson Town,Other,3 BHK,35000,,1300,Semi-Furnished,,2022-07-09,2026-06-05 22:46:37.485506,,26.92
+3258,kaggle,Cox Town,Other,2 BHK,10000,,850,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,11.76
+3260,kaggle,"Dollars Colony-Rmv Extension Stage 2, RMV Extension Stage 2",Other,4 BHK,140000,,3100,Semi-Furnished,,2022-07-09,2026-06-05 22:46:37.485506,,45.16
+3261,kaggle,Electronic City,South,2 BHK,6000,,660,Unfurnished,,2022-06-21,2026-06-05 22:46:37.485506,,9.09
+3262,kaggle,Battarahalli,Other,2 BHK,11000,,600,Semi-Furnished,,2022-05-24,2026-06-05 22:46:37.485506,,18.33
+3263,kaggle,Btm Layout,South,1 BHK,4000,,250,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,16.00
+3265,kaggle,Halasuru,Other,2 BHK,24000,,630,Semi-Furnished,,2022-07-09,2026-06-05 22:46:37.485506,,38.10
+3257,kaggle,K R Puram,East,1 BHK,8000,,750,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,10.67
+3208,kaggle,"Murugeshpalya, Airport Road",East,2 BHK,16000,,800,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,20.00
+3212,kaggle,Ramamurthy Nagar,East,2 BHK,12000,,800,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,15.00
+3217,kaggle,Mathikere,North,2 BHK,9000,,600,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,15.00
+3246,kaggle,C V Raman Nagar,East,1 BHK,9000,,400,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,22.50
+3205,kaggle,"Chuchangatta Colony, J P Nagar",South,2 BHK,14000,,1300,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,10.77
+3225,kaggle,J P Nagar,South,2 BHK,16000,,800,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,20.00
+3259,kaggle,J P Nagar,South,1 BHK,11500,,600,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,19.17
+3252,kaggle,Kanakapura Road,South,3 BHK,30000,,1700,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,17.65
+3228,kaggle,Bilekahalli,South,3 BHK,21000,,1600,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,13.12
+3213,kaggle,Banashankari,South,2 BHK,10500,,1000,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,10.50
+3226,kaggle,Indira Nagar,Central,3 BHK,60000,,1500,Semi-Furnished,,2022-07-08,2026-06-05 22:46:37.485506,,40.00
+3215,kaggle,"Kaggadasapura, Indira nagar",Central,2 BHK,15000,,1100,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,13.64
+3266,kaggle,"Dooravani Nagar, Dooravani Nagar",Other,2 BHK,11000,,840,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,13.10
+3267,kaggle,Marathahalli,East,2 BHK,10000,,500,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,20.00
+3268,kaggle,Hebbal,North,3 BHK,62000,,1680,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,36.90
+3270,kaggle,Basaveshwara Layout,Other,2 BHK,18000,,1000,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,18.00
+3271,kaggle,Hebbal Kempapura,North,2 BHK,17500,,900,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,19.44
+3272,kaggle,Aduru,Other,1 BHK,6500,,500,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,13.00
+3273,kaggle,Chinnapanna Halli,Other,1 BHK,16000,,550,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,29.09
+3274,kaggle,Begur Road,Other,3 BHK,30000,,1250,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,24.00
+3275,kaggle,"Nanja Reddy Colony, Jeevan Bima Nagar",Other,2 BHK,28000,,850,Semi-Furnished,,2022-06-09,2026-06-05 22:46:37.485506,,32.94
+3276,kaggle,"Subhash Nagar, Kengeri Satellite Town",Other,1 BHK,6500,,150,Semi-Furnished,,2022-05-30,2026-06-05 22:46:37.485506,,43.33
+3278,kaggle,"Electronics City Phase 1, Electronic City",South,2 BHK,8500,,500,Semi-Furnished,,2022-07-08,2026-06-05 22:46:37.485506,,17.00
+3279,kaggle,"Venkateshappa Layout-Kammanahalli, Kammanahalli",Other,2 BHK,20000,,750,Semi-Furnished,,2022-05-21,2026-06-05 22:46:37.485506,,26.67
+3280,kaggle,"Rbi Colony-Jayanagar, Jayanagar",South,3 BHK,26000,,2000,Semi-Furnished,,2022-07-02,2026-06-05 22:46:37.485506,,13.00
+3281,kaggle,Electronic City,South,1 BHK,8000,,500,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,16.00
+3283,kaggle,Neelasandra,Other,2 BHK,12500,,750,Semi-Furnished,,2022-06-24,2026-06-05 22:46:37.485506,,16.67
+3284,kaggle,Ramagondanahalli,Other,1 BHK,8000,,600,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,13.33
+3285,kaggle,Thanisandra,Other,3 BHK,52000,,2710,Semi-Furnished,,2022-07-09,2026-06-05 22:46:37.485506,,19.19
+3286,kaggle,Basava Nagar,Other,2 BHK,18000,,1190,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,15.13
+3288,kaggle,"Electronics City Phase 1, Electronic City",South,2 BHK,12000,,750,Unfurnished,,2022-04-29,2026-06-05 22:46:37.485506,,16.00
+3289,kaggle,Bilal Nagar-Sagayapura,Other,3 BHK,100000,,1800,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,55.56
+3290,kaggle,Lakshmipura,Other,1 BHK,6000,,1200,Furnished,,2022-06-14,2026-06-05 22:46:37.485506,,5.00
+3291,kaggle,Btm Layout,South,2 BHK,12000,,600,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,20.00
+3293,kaggle,Kudlu Gate,Other,3 BHK,13500,,1100,Unfurnished,,2022-06-16,2026-06-05 22:46:37.485506,,12.27
+3294,kaggle,Nagarbhavi,Other,1 BHK,10000,,700,Unfurnished,,2022-06-30,2026-06-05 22:46:37.485506,,14.29
+3295,kaggle,Attibele,Other,2 BHK,8500,,650,Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,13.08
+3296,kaggle,Yelahanka,North,3 BHK,32000,,1768,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,18.10
+3297,kaggle,"Hrbr Layout Block 2, Kalyan Nagar, Outer Ring Road",Other,3 BHK,42000,,1600,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,26.25
+3299,kaggle,Kengeri,Other,2 BHK,16000,,1200,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,13.33
+3302,kaggle,Basaveshvara Nagar,Other,4 BHK,60000,,2500,Semi-Furnished,,2022-05-15,2026-06-05 22:46:37.485506,,24.00
+3303,kaggle,Hulimavu,Other,1 BHK,8500,,500,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,17.00
+3304,kaggle,snv la,Other,1 BHK,10000,,500,Semi-Furnished,,2022-05-26,2026-06-05 22:46:37.485506,,20.00
+3305,kaggle,"Rmv Extension, Armane Nagar",Other,1 BHK,8500,,500,Semi-Furnished,,2022-04-30,2026-06-05 22:46:37.485506,,17.00
+3307,kaggle,Kengeri Upanagara,Other,2 BHK,9500,,200,Semi-Furnished,,2022-05-16,2026-06-05 22:46:37.485506,,47.50
+3308,kaggle,Koramangala,South,2 BHK,25000,,750,Unfurnished,,2022-06-12,2026-06-05 22:46:37.485506,,33.33
+3310,kaggle,Basaveshwar Nagar,Other,3 BHK,20000,,1200,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,16.67
+3312,kaggle,"Aecs Layout-Singasandra, Singasandra, Hosur Road",Other,2 BHK,10000,,500,Unfurnished,,2022-05-10,2026-06-05 22:46:37.485506,,20.00
+3313,kaggle,"Jayanti Nagar, Hormavu",Other,2 BHK,13000,,1000,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,13.00
+3314,kaggle,Sun City Layout,Other,2 BHK,13000,,850,Semi-Furnished,,2022-07-02,2026-06-05 22:46:37.485506,,15.29
+3315,kaggle,Koramangala,South,2 BHK,24000,,900,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,26.67
+3316,kaggle,"State Bank Of India Colony, Hegganahalli",Other,1 BHK,10000,,600,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,16.67
+3318,kaggle,Begur,Other,1 BHK,6000,,600,Unfurnished,,2022-07-04,2026-06-05 22:46:37.485506,,10.00
+3319,kaggle,Margondanahalli,Other,3 BHK,21000,,1250,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,16.80
+3321,kaggle,Tannery Road,Other,2 BHK,8500,,532,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,15.98
+3322,kaggle,Whitefield,East,2 BHK,13000,,1000,Unfurnished,,2022-06-08,2026-06-05 22:46:37.485506,,13.00
+3323,kaggle,Rajarajeshwari Nagar,Other,1 BHK,5000,,150,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,33.33
+3325,kaggle,"Nallurhalli, Whitefield, Borewell Road",East,1 BHK,13900,,600,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,23.17
+3326,kaggle,Uttarahalli,Other,2 BHK,15000,,1100,Furnished,,2022-05-22,2026-06-05 22:46:37.485506,,13.64
+3327,kaggle,"Panduranga Nagar, bannerghatta main Road",South,3 BHK,30000,,1500,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,20.00
+3328,kaggle,Koramangala,South,2 BHK,13000,,500,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,26.00
+3329,kaggle,Sir M V Nagar,Other,1 BHK,7700,,600,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,12.83
+3330,kaggle,Yelahanka,North,2 BHK,25000,,1200,Unfurnished,,2022-05-14,2026-06-05 22:46:37.485506,,20.83
+3269,kaggle,"Murugeshpalya, Airport Road",East,2 BHK,12000,,775,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,15.48
+3317,kaggle,Mahadevapura,East,1 BHK,8000,,600,Unfurnished,,2022-07-04,2026-06-05 22:46:37.485506,,13.33
+3324,kaggle,Mahadevapura,East,1 BHK,7500,,500,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,15.00
+3311,kaggle,Ramamurthy Nagar,East,1 BHK,10000,,800,Unfurnished,,2022-07-05,2026-06-05 22:46:37.485506,,12.50
+3298,kaggle,C V Raman Nagar,East,1 BHK,7500,,400,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,18.75
+3301,kaggle,C V Raman Nagar,East,2 BHK,14000,,700,Unfurnished,,2022-07-04,2026-06-05 22:46:37.485506,,20.00
+3320,kaggle,Horamavu,East,3 BHK,25000,,2000,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,12.50
+3300,kaggle,Rayasandra,South,1 BHK,5000,,500,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,10.00
+3306,kaggle,"Ittamadu, Banashankari, Outer Ring Road",South,2 BHK,15000,,1280,Unfurnished,,2022-05-05,2026-06-05 22:46:37.485506,,11.72
+3292,kaggle,Mathikere,North,1 BHK,6500,,450,Unfurnished,,2022-05-11,2026-06-05 22:46:37.485506,,14.44
+3332,kaggle,Hennur Main Road,Other,3 BHK,39000,,1550,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,25.16
+3333,kaggle,Varthur,Other,2 BHK,18000,,1050,Semi-Furnished,,2022-07-02,2026-06-05 22:46:37.485506,,17.14
+3334,kaggle,Shanti Nagar,Other,1 BHK,15000,,500,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,30.00
+3335,kaggle,Shivaji Nagar,Other,2 BHK,28000,,1500,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,18.67
+3337,kaggle,Hsr Layout,South,4 BHK,75000,,2000,Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,37.50
+3338,kaggle,RT Nagar,Other,2 BHK,14000,,110,Semi-Furnished,,2022-05-11,2026-06-05 22:46:37.485506,,127.27
+3340,kaggle,Sunkadakatte,Other,3 BHK,20000,,1465,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,13.65
+3341,kaggle,"Attur Layout, Yelahanka New Town",North,2 BHK,12000,,940,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,12.77
+3342,kaggle,Basaveshwar Nagar,Other,2 BHK,12000,,850,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,14.12
+3343,kaggle,Tumkur Road,Other,2 BHK,24000,,990,Furnished,,2022-07-02,2026-06-05 22:46:37.485506,,24.24
+3344,kaggle,BBMP convertion layout,Other,2 BHK,12000,,750,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,16.00
+3345,kaggle,Garvebhavi Palya,Other,1 BHK,10000,,500,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,20.00
+3347,kaggle,"Chelekare, Kalyan Nagar, Outer Ring Road",Other,1 BHK,9000,,600,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,15.00
+3348,kaggle,"Jeevanhalli, Cox Town",Other,2 BHK,12000,,900,Semi-Furnished,,2022-06-11,2026-06-05 22:46:37.485506,,13.33
+3349,kaggle,Konanakunte,Other,2 BHK,11000,,1100,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,10.00
+3350,kaggle,"Venkatpura, HSR Layout",South,2 BHK,15000,,900,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,16.67
+3351,kaggle,Byatarayanapura,Other,1 BHK,5500,,600,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,9.17
+3352,kaggle,Kudlu Gate,Other,2 BHK,18000,,1000,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,18.00
+3353,kaggle,Koramangala,South,2 BHK,42000,,1150,Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,36.52
+3354,kaggle,"Devarachikannahalli, Begur Road",Other,2 BHK,18000,,1250,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,14.40
+3356,kaggle,"Electronic City Phase 2, Electronic City",South,1 BHK,6000,,500,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,12.00
+3358,kaggle,Choodasandra,Other,2 BHK,12000,,850,Semi-Furnished,,2022-04-30,2026-06-05 22:46:37.485506,,14.12
+3359,kaggle,"Hbr Layout Block 2, HBR Layout",Other,2 BHK,10000,,990,Semi-Furnished,,2022-06-28,2026-06-05 22:46:37.485506,,10.10
+3360,kaggle,Raghavendra Layout,Other,2 BHK,9500,,850,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,11.18
+3362,kaggle,Nagvarpalya Main Road,Other,2 BHK,9500,,650,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,14.62
+3363,kaggle,whitefield,East,1 BHK,6500,,400,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,16.25
+3364,kaggle,Mylasandra,Other,2 BHK,13500,,1000,Semi-Furnished,,2022-06-03,2026-06-05 22:46:37.485506,,13.50
+3365,kaggle,Doddaballapur Road,Other,2 BHK,25000,,1350,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,18.52
+3366,kaggle,Hbr Layout,Other,2 BHK,9500,,600,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,15.83
+3367,kaggle,Koramangala,South,4 BHK,190000,,4000,Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,47.50
+3368,kaggle,Aarna Enclave,Other,2 BHK,90000,,950,Unfurnished,,2022-06-28,2026-06-05 22:46:37.485506,,94.74
+3369,kaggle,Yelahanka,North,2 BHK,24000,,777,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,30.89
+3370,kaggle,Electronic City,South,3 BHK,15000,,1200,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,12.50
+3371,kaggle,Kodigehalli,Other,2 BHK,22000,,1600,Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,13.75
+3373,kaggle,Btm Layout Stage 4,South,2 BHK,12500,,570,Semi-Furnished,,2022-06-06,2026-06-05 22:46:37.485506,,21.93
+3374,kaggle,Mysore Road,Other,3 BHK,28000,,1800,Semi-Furnished,,2022-07-03,2026-06-05 22:46:37.485506,,15.56
+3375,kaggle,Arakere,Other,2 BHK,12000,,1100,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,10.91
+3376,kaggle,"Lingarajapuram, Lingarajapuram, Hennur Main Road",Other,1 BHK,8000,,400,Unfurnished,,2022-06-23,2026-06-05 22:46:37.485506,,20.00
+3377,kaggle,Bettadasanapura,Other,1 BHK,7500,,750,Semi-Furnished,,2022-06-11,2026-06-05 22:46:37.485506,,10.00
+3378,kaggle,HRBR Layout Block 1,Other,2 BHK,34000,,1400,Furnished,,2022-06-03,2026-06-05 22:46:37.485506,,24.29
+3379,kaggle,Yelahanka,North,3 BHK,32000,,1789,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,17.89
+3381,kaggle,Hulimavu,Other,2 BHK,16000,,1200,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,13.33
+3382,kaggle,Singahalli,Other,1 BHK,7500,,460,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,16.30
+3384,kaggle,Bda Layout -Lingarajapuram,Other,2 BHK,19500,,1080,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,18.06
+3385,kaggle,Dhobi Ghat- Rajajinagar,West,3 BHK,75000,,2000,Furnished,,2022-06-10,2026-06-05 22:46:37.485506,,37.50
+3386,kaggle,Hbr Layout,Other,2 BHK,16500,,1100,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,15.00
+3387,kaggle,Chandapura,Other,2 BHK,14500,,1025,Unfurnished,,2022-06-01,2026-06-05 22:46:37.485506,,14.15
+3388,kaggle,"Aradhana Layout, Arakere",Other,2 BHK,16000,,650,Unfurnished,,2022-06-27,2026-06-05 22:46:37.485506,,24.62
+3390,kaggle,Rajajinagar,West,3 BHK,280000,,2800,Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,100.00
+3391,kaggle,Hennur Main Road,Other,2 BHK,21000,,1100,Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,19.09
+3393,kaggle,Frazer Town,Other,3 BHK,65000,,2000,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,32.50
+3394,kaggle,Mahatma Gandhi Road,Other,3 BHK,180000,,2500,Unfurnished,,2022-06-16,2026-06-05 22:46:37.485506,,72.00
+3395,kaggle,Hommadevanahalli,Other,2 BHK,10000,,600,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,16.67
+3383,kaggle,"Kammagondahalli, Jalahalli",North,2 BHK,7500,,500,Semi-Furnished,,2022-06-24,2026-06-05 22:46:37.485506,,15.00
+3392,kaggle,Maruthi Sevanagar,East,3 BHK,30000,,1300,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,23.08
+3339,kaggle,"Jp Nagar Phase 7, J P Nagar",South,1 BHK,9000,,500,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,18.00
+3346,kaggle,"Jp Nagar Phase 7, J P Nagar",South,3 BHK,24000,,1430,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,16.78
+3355,kaggle,"Jp Nagar Phase 7, J P Nagar",South,2 BHK,15000,,1000,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,15.00
+3336,kaggle,"Vijaya Bank Colony -Bilekahalli, Bilekahalli",South,2 BHK,17500,,1150,Semi-Furnished,,2022-06-24,2026-06-05 22:46:37.485506,,15.22
+3331,kaggle,"Kaggadasapura, Indira nagar",Central,2 BHK,17000,,1100,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,15.45
+3372,kaggle,Yeshwantpur,West,3 BHK,34000,,1500,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,22.67
+3396,kaggle,Whitefield,East,2 BHK,12000,,630,Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,19.05
+3397,kaggle,Hosakerehalli,Other,2 BHK,9000,,550,Unfurnished,,2022-07-07,2026-06-05 22:46:37.485506,,16.36
+3398,kaggle,Basaveshvara Nagar,Other,2 BHK,22000,,1025,Semi-Furnished,,2022-06-01,2026-06-05 22:46:37.485506,,21.46
+3399,kaggle,Kadugodi Pattalamma Layout,Other,1 BHK,10000,,500,Semi-Furnished,,2022-05-08,2026-06-05 22:46:37.485506,,20.00
+3400,kaggle,Hebbal,North,3 BHK,48000,,1286,Semi-Furnished,,2022-05-25,2026-06-05 22:46:37.485506,,37.33
+3401,kaggle,Adugodi,Other,1 BHK,11000,,800,Semi-Furnished,,2022-06-22,2026-06-05 22:46:37.485506,,13.75
+3402,kaggle,"Singasandra, Hosur Road",Other,2 BHK,11000,,900,Semi-Furnished,,2022-06-09,2026-06-05 22:46:37.485506,,12.22
+3403,kaggle,Yelahanka New Town,North,3 BHK,40000,,1618,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,24.72
+3404,kaggle,Marathahalli-Sarjapur Outer Ring Road,East,1 BHK,10000,,500,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,20.00
+3405,kaggle,Garden City University,Other,1 BHK,6500,,450,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,14.44
+3409,kaggle,Nagarbhavi,Other,1 BHK,6200,,400,Semi-Furnished,,2022-06-10,2026-06-05 22:46:37.485506,,15.50
+3410,kaggle,Hebbal,North,3 BHK,110000,,1500,Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,73.33
+3411,kaggle,Kengeri Hobli,Other,2 BHK,5500,,800,Unfurnished,,2022-06-15,2026-06-05 22:46:37.485506,,6.88
+3412,kaggle,Koramangala 8Th Block,South,3 BHK,50000,,1580,Unfurnished,,2022-05-21,2026-06-05 22:46:37.485506,,31.65
+3413,kaggle,Agrahara Layout,Other,2 BHK,12000,,700,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,17.14
+3414,kaggle,Sadashiva Nagar,Other,2 BHK,11500,,700,Semi-Furnished,,2022-05-08,2026-06-05 22:46:37.485506,,16.43
+3415,kaggle,"Doddanekundi, Kartik Nagar",Other,1 BHK,16000,,550,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,29.09
+3416,kaggle,Krishna Reddy Layout -Domlur,Central,1 BHK,11000,,450,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,24.44
+3417,kaggle,"Jakkur Plantation, Jakkuru, Bellary Road",Other,4 BHK,150000,,4550,Semi-Furnished,,2022-06-18,2026-06-05 22:46:37.485506,,32.97
+3418,kaggle,"Laxminarayana Layout, Munnekollal",Other,1 BHK,9000,,400,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,22.50
+3419,kaggle,Jnana Ganga Nagar,Other,1 BHK,6000,,650,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,9.23
+3420,kaggle,Bagalur,Other,2 BHK,12000,,700,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,17.14
+3421,kaggle,"Ms Palya, Vidyaranyapura",Other,2 BHK,16000,,1333,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,12.00
+3422,kaggle,Vasanth Nagar,Other,3 BHK,35000,,1500,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,23.33
+3424,kaggle,Airport Road,Other,1 BHK,8000,,300,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,26.67
+3425,kaggle,Vijayanagar,South,2 BHK,13500,,650,Unfurnished,,2022-06-30,2026-06-05 22:46:37.485506,,20.77
+3427,kaggle,Srinivaspura,Other,2 BHK,14000,,1200,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,11.67
+3428,kaggle,Chikkabanavara,Other,1 BHK,4700,,500,Unfurnished,,2022-05-05,2026-06-05 22:46:37.485506,,9.40
+3429,kaggle,Mavalli,Other,2 BHK,17000,,1000,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,17.00
+3431,kaggle,Thanisandra,Other,1 BHK,12000,,600,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,20.00
+3434,kaggle,Hormavu Ring Road,Other,3 BHK,21000,,1300,Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,16.15
+3435,kaggle,Sunkadakatte,Other,1 BHK,6000,,350,Unfurnished,,2022-05-14,2026-06-05 22:46:37.485506,,17.14
+3436,kaggle,Rajajinagar,West,2 BHK,18500,,900,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,20.56
+3437,kaggle,"Chamundeshwari Layout, Arakere",Other,1 BHK,4750,,200,Semi-Furnished,,2022-04-27,2026-06-05 22:46:37.485506,,23.75
+3439,kaggle,Hosur Road,Other,2 BHK,17600,,1000,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,17.60
+3440,kaggle,Thanisandra,Other,3 BHK,35000,,1700,Semi-Furnished,,2022-06-10,2026-06-05 22:46:37.485506,,20.59
+3441,kaggle,Ullal Main Road,Other,2 BHK,8000,,600,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,13.33
+3443,kaggle,Byrathi,Other,2 BHK,15000,,750,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,20.00
+3444,kaggle,"Chowdeshwari Layout, Yelahanka",North,3 BHK,30000,,1750,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,17.14
+3445,kaggle,Koramangala Block 3,South,3 BHK,100000,,1950,Semi-Furnished,,2022-06-02,2026-06-05 22:46:37.485506,,51.28
+3447,kaggle,Nagadevana Halli,Other,2 BHK,8000,,600,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,13.33
+3448,kaggle,Laggere,Other,2 BHK,9000,,600,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,15.00
+3449,kaggle,Doddanagamangala,Other,1 BHK,6000,,500,Unfurnished,,2022-06-27,2026-06-05 22:46:37.485506,,12.00
+3452,kaggle,"Chikbasavnapura, Krishnarajapura",Other,2 BHK,10000,,900,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,11.11
+3453,kaggle,Shivaji Nagar,Other,2 BHK,14000,,500,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,28.00
+3454,kaggle,Sunkadakatte,Other,1 BHK,7000,,600,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,11.67
+3455,kaggle,"Ambedkar Colony, Yelahanka",North,3 BHK,60000,,1710,Unfurnished,,2022-07-06,2026-06-05 22:46:37.485506,,35.09
+3456,kaggle,Doddabidarakallu,Other,1 BHK,6000,,600,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,10.00
+3457,kaggle,Anjanapura,Other,3 BHK,17000,,1100,Semi-Furnished,,2022-06-13,2026-06-05 22:46:37.485506,,15.45
+3458,kaggle,Yelahanka,North,2 BHK,15000,,920,Semi-Furnished,,2022-05-06,2026-06-05 22:46:37.485506,,16.30
+3459,kaggle,"Aecs Layout-Singasandra, Singasandra, Hosur Road",Other,1 BHK,8200,,750,Semi-Furnished,,2022-05-30,2026-06-05 22:46:37.485506,,10.93
+3460,kaggle,Bommanahalli,South,1 BHK,8500,,300,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,28.33
+3461,kaggle,"Doddathoguru, Electronic City",South,3 BHK,20000,,1660,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,12.05
+3423,kaggle,"Murugeshpalya, Airport Road",East,1 BHK,9000,,425,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,21.18
+3451,kaggle,"A Narayanapura, Mahadevapura",East,1 BHK,15000,,600,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,25.00
+3446,kaggle,Horamavu,East,2 BHK,18000,,1065,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,16.90
+3408,kaggle,Banaswadi,East,3 BHK,28000,,1600,Semi-Furnished,,2022-05-30,2026-06-05 22:46:37.485506,,17.50
+3432,kaggle,"Jp Nagar Phase 1, J P Nagar",South,3 BHK,30000,,1875,Semi-Furnished,,2022-04-27,2026-06-05 22:46:37.485506,,16.00
+3407,kaggle,Kanakapura Road,South,3 BHK,22000,,1374,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,16.01
+3406,kaggle,Padmanabha Nagar,South,2 BHK,18000,,850,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,21.18
+3442,kaggle,Rayasandra,South,1 BHK,7000,,650,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,10.77
+3426,kaggle,"Banashankari Stage 2, Banashankari",South,2 BHK,14000,,800,Semi-Furnished,,2022-06-15,2026-06-05 22:46:37.485506,,17.50
+3438,kaggle,Yeshwantpur,West,2 BHK,15000,,700,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,21.43
+3462,kaggle,"Vimanapura, Airport Road",Other,1 BHK,8000,,400,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,20.00
+3463,kaggle,Nagarathpete,Other,2 BHK,20000,,300,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,66.67
+3464,kaggle,"Cooke Town, Cooke Town",Other,1 BHK,11500,,300,Unfurnished,,2022-05-26,2026-06-05 22:46:37.485506,,38.33
+3465,kaggle,"Jakkur Plantation, Jakkuru, Bellary Road",Other,3 BHK,30000,,2000,Furnished,,2022-05-16,2026-06-05 22:46:37.485506,,15.00
+3466,kaggle,Doddakammanahalli,Other,3 BHK,22000,,1200,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,18.33
+3467,kaggle,Hebbal,North,1 BHK,6500,,300,Semi-Furnished,,2022-04-28,2026-06-05 22:46:37.485506,,21.67
+3468,kaggle,Hosakerehalli,Other,1 BHK,6500,,700,Unfurnished,,2022-05-25,2026-06-05 22:46:37.485506,,9.29
+3470,kaggle,"Domlur, Domlur",Central,1 BHK,24000,,700,Furnished,,2022-05-26,2026-06-05 22:46:37.485506,,34.29
+3472,kaggle,"Sai Colony, Krishnarajapura",Other,2 BHK,18000,,1000,Semi-Furnished,,2022-06-26,2026-06-05 22:46:37.485506,,18.00
+3473,kaggle,Shivaji Nagar,Other,1 BHK,8500,,600,Semi-Furnished,,2022-05-30,2026-06-05 22:46:37.485506,,14.17
+3474,kaggle,Vijayanagar,South,1 BHK,4000,,250,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,16.00
+3475,kaggle,T Dasarahalli,Other,1 BHK,5000,,400,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,12.50
+3477,kaggle,"Electronics City Phase 1, Electronic City",South,1 BHK,12000,,500,Semi-Furnished,,2022-04-27,2026-06-05 22:46:37.485506,,24.00
+3478,kaggle,Btm Layout,South,1 BHK,9000,,350,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,25.71
+3479,kaggle,"Vinayak Nagar, Kattigenahalli",Other,2 BHK,7500,,1100,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,6.82
+3480,kaggle,Ganga Nagar,Other,2 BHK,30000,,1650,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,18.18
+3481,kaggle,"Electronic City Phase 2, Electronic City",South,4 BHK,14000,,1000,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,14.00
+3483,kaggle,Gh society,Other,1 BHK,13000,,700,Semi-Furnished,,2022-06-29,2026-06-05 22:46:37.485506,,18.57
+3484,kaggle,Vijayanagar,South,2 BHK,12000,,1200,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,10.00
+3485,kaggle,Wilson Garden,Other,1 BHK,12000,,600,Unfurnished,,2022-04-27,2026-06-05 22:46:37.485506,,20.00
+3486,kaggle,Electronic City,South,2 BHK,10000,,925,Unfurnished,,2022-05-01,2026-06-05 22:46:37.485506,,10.81
+3487,kaggle,Koramangala,South,3 BHK,60000,,2400,Semi-Furnished,,2022-07-09,2026-06-05 22:46:37.485506,,25.00
+3488,kaggle,Hebbal,North,3 BHK,35000,,1500,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,23.33
+3489,kaggle,"Dooravani Nagar, Dooravani Nagar",Other,2 BHK,12000,,600,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,20.00
+3492,kaggle,Uttarahalli,Other,2 BHK,11000,,700,Semi-Furnished,,2022-06-15,2026-06-05 22:46:37.485506,,15.71
+3493,kaggle,Yelahanka,North,2 BHK,20000,,890,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,22.47
+3494,kaggle,Hbr Layout,Other,1 BHK,12500,,600,Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,20.83
+3495,kaggle,Cunningham Road,Other,2 BHK,35000,,1250,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,28.00
+3497,kaggle,Hebbal,North,3 BHK,85000,,2600,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,32.69
+3499,kaggle,Electronic City,South,2 BHK,22000,,1150,Semi-Furnished,,2022-05-18,2026-06-05 22:46:37.485506,,19.13
+3500,kaggle,"Electronic City Phase 2, Electronic City",South,1 BHK,7000,,450,Semi-Furnished,,2022-05-16,2026-06-05 22:46:37.485506,,15.56
+3501,kaggle,Nri Layout,Other,2 BHK,16000,,1150,Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,13.91
+3503,kaggle,Yelahanka,North,2 BHK,20000,,980,Semi-Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,20.41
+3504,kaggle,Halasuru,Other,3 BHK,60000,,1850,Furnished,,2022-07-05,2026-06-05 22:46:37.485506,,32.43
+3505,kaggle,Kadabagere,Other,2 BHK,5000,,625,Semi-Furnished,,2022-05-31,2026-06-05 22:46:37.485506,,8.00
+3507,kaggle,Varthur,Other,2 BHK,15000,,1200,Semi-Furnished,,2022-07-05,2026-06-05 22:46:37.485506,,12.50
+3508,kaggle,Bagalakunte,Other,3 BHK,18000,,1200,Semi-Furnished,,2022-05-01,2026-06-05 22:46:37.485506,,15.00
+3509,kaggle,Punyabhoomi Layout,Other,2 BHK,12000,,1080,Semi-Furnished,,2022-06-14,2026-06-05 22:46:37.485506,,11.11
+3510,kaggle,Amrutahalli,Other,1 BHK,8500,,700,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,12.14
+3511,kaggle,"Panduranga Nagar, bannerghatta main Road",South,2 BHK,11000,,800,Unfurnished,,2022-05-05,2026-06-05 22:46:37.485506,,13.75
+3512,kaggle,whitefield,East,3 BHK,42000,,1880,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,22.34
+3513,kaggle,Jakkur,Other,2 BHK,25000,,1305,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,19.16
+3514,kaggle,Sahakara Nagar,North,1 BHK,8500,,600,Semi-Furnished,,2022-04-29,2026-06-05 22:46:37.485506,,14.17
+3515,kaggle,Yelahanka Dodda Ballapur Road,North,2 BHK,12500,,950,Semi-Furnished,,2022-06-08,2026-06-05 22:46:37.485506,,13.16
+3516,kaggle,"Hegde Nagar, R.K.Hegde Nagar",Other,2 BHK,18000,,1188,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,15.15
+3517,kaggle,Vijayanagar,South,1 BHK,6000,,500,Unfurnished,,2022-06-23,2026-06-05 22:46:37.485506,,12.00
+3518,kaggle,"Kereguddadahalli, chikkabanavara Bangalore",Other,2 BHK,9000,,875,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,10.29
+3519,kaggle,Wilson garden Bangalore,Other,3 BHK,54000,,2100,Unfurnished,,2022-06-23,2026-06-05 22:46:37.485506,,25.71
+3520,kaggle,Annapurneshwari Nagar,Other,3 BHK,22000,,1200,Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,18.33
+3521,kaggle,Rajajinagar,West,3 BHK,120000,,2390,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,50.21
+3523,kaggle,"Hrbr Layout Block 2, Kalyan Nagar, Outer Ring Road",Other,2 BHK,28000,,1150,Semi-Furnished,,2022-06-10,2026-06-05 22:46:37.485506,,24.35
+3524,kaggle,Koramangala Block 4,South,3 BHK,55000,,1788,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,30.76
+3525,kaggle,Electronic City,South,2 BHK,19000,,1250,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,15.20
+3476,kaggle,Mahadevapura,East,2 BHK,22000,,1200,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,18.33
+3496,kaggle,Mahadevapura,East,3 BHK,26000,,1350,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,19.26
+3526,kaggle,Mahadevapura,East,1 BHK,11000,,600,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,18.33
+3522,kaggle,Ramamurthy Nagar,East,1 BHK,7000,,600,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,11.67
+3506,kaggle,"Itc Colony, Maruthi Sevanagar",East,1 BHK,4000,,100,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,40.00
+3469,kaggle,"Jp Nagar Phase 1, J P Nagar",South,2 BHK,16000,,850,Semi-Furnished,,2022-05-18,2026-06-05 22:46:37.485506,,18.82
+3502,kaggle,Gottigere,South,2 BHK,11000,,600,Unfurnished,,2022-05-28,2026-06-05 22:46:37.485506,,18.33
+3482,kaggle,Banashankari,South,2 BHK,9250,,500,Semi-Furnished,,2022-06-19,2026-06-05 22:46:37.485506,,18.50
+3491,kaggle,"Srinivasa Nagar-Banashankari, Banashankari",South,1 BHK,8000,,650,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,12.31
+3527,kaggle,"Vimanapura, Airport Road",Other,3 BHK,18000,,1600,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,11.25
+3528,kaggle,"Sena Vihar, Kammanahalli",Other,3 BHK,70000,,1520,Semi-Furnished,,2022-07-06,2026-06-05 22:46:37.485506,,46.05
+3529,kaggle,Koramangala,South,1 BHK,12000,,550,Semi-Furnished,,2022-06-15,2026-06-05 22:46:37.485506,,21.82
+3531,kaggle,Hsr Layout,South,2 BHK,30000,,1100,Semi-Furnished,,2022-05-12,2026-06-05 22:46:37.485506,,27.27
+3532,kaggle,Chikkabanavara,Other,2 BHK,10000,,1100,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,9.09
+3533,kaggle,Nandini Layout,Other,1 BHK,6000,,400,Unfurnished,,2022-05-05,2026-06-05 22:46:37.485506,,15.00
+3534,kaggle,"Virat Nagar, Bommanahalli",South,1 BHK,4500,,300,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,15.00
+3535,kaggle,Rajarajeshwari Nagar,Other,1 BHK,8000,,500,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,16.00
+3536,kaggle,Hennur Main Road,Other,2 BHK,20000,,1100,Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,18.18
+3539,kaggle,Bommanahalli,South,2 BHK,17000,,1020,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,16.67
+3540,kaggle,Kammanahalli,Other,2 BHK,22000,,1250,Unfurnished,,2022-05-19,2026-06-05 22:46:37.485506,,17.60
+3542,kaggle,Koramangala,South,1 BHK,12000,,600,Unfurnished,,2022-05-05,2026-06-05 22:46:37.485506,,20.00
+3543,kaggle,T Dasarahalli,Other,1 BHK,4500,,200,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,22.50
+3544,kaggle,Basaveshvara Nagar,Other,1 BHK,5000,,300,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,16.67
+3545,kaggle,"Vyalikaval, Malleshwaram",West,1 BHK,6000,,400,Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,15.00
+3546,kaggle,Rajamahal Guttahalli,Other,1 BHK,11000,,450,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,24.44
+3548,kaggle,Jakkur,Other,3 BHK,35000,,1460,Unfurnished,,2022-07-06,2026-06-05 22:46:37.485506,,23.97
+3549,kaggle,"Singasandra, Hosur Road",Other,3 BHK,24000,,1464,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,16.39
+3551,kaggle,Devanahalli,Other,2 BHK,16000,,680,Semi-Furnished,,2022-06-02,2026-06-05 22:46:37.485506,,23.53
+3552,kaggle,Prestige Acropolis,Other,3 BHK,100000,,2750,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,36.36
+3553,kaggle,Vijayanagar,South,2 BHK,14000,,800,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,17.50
+3554,kaggle,Karihobanahalli,Other,2 BHK,7500,,600,Unfurnished,,2022-06-07,2026-06-05 22:46:37.485506,,12.50
+3555,kaggle,"Gubbalala, Subramanyapura",Other,3 BHK,16000,,1200,Unfurnished,,2022-05-15,2026-06-05 22:46:37.485506,,13.33
+3556,kaggle,Kothanur,Other,4 BHK,65000,,3200,Semi-Furnished,,2022-05-12,2026-06-05 22:46:37.485506,,20.31
+3557,kaggle,Hebbal Kempapura,North,2 BHK,18000,,1800,Semi-Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,10.00
+3558,kaggle,Frazer Town,Other,1 BHK,8000,,500,Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,16.00
+3559,kaggle,"Kadugondanahalli, Kadugondanahalli",Other,2 BHK,11000,,1200,Unfurnished,,2022-05-23,2026-06-05 22:46:37.485506,,9.17
+3560,kaggle,"Prakruthi Township, Hennur",Other,1 BHK,8000,,750,Unfurnished,,2022-06-08,2026-06-05 22:46:37.485506,,10.67
+3561,kaggle,GH Society,Other,1 BHK,13000,,700,Semi-Furnished,,2022-06-29,2026-06-05 22:46:37.485506,,18.57
+2731,kaggle,K R Puram,East,2 BHK,16000,,1155,Semi-Furnished,,2022-06-12,2026-06-05 22:46:37.485506,,13.85
+2752,kaggle,K R Puram,East,2 BHK,14500,,850,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,17.06
+2785,kaggle,K R Puram,East,2 BHK,10000,,1200,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,8.33
+2829,kaggle,K R Puram,East,3 BHK,13000,,1000,Semi-Furnished,,2022-06-11,2026-06-05 22:46:37.485506,,13.00
+2897,kaggle,K R Puram,East,2 BHK,14000,,1100,Semi-Furnished,,2022-05-25,2026-06-05 22:46:37.485506,,12.73
+2950,kaggle,K R Puram,East,1 BHK,10000,,1000,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,10.00
+2960,kaggle,K R Puram,East,3 BHK,30000,,1350,Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,22.22
+2975,kaggle,K R Puram,East,2 BHK,8500,,720,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,11.81
+2999,kaggle,K R Puram,East,2 BHK,11000,,1000,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,11.00
+3034,kaggle,K R Puram,East,1 BHK,6000,,350,Unfurnished,,2022-06-04,2026-06-05 22:46:37.485506,,17.14
+3112,kaggle,K R Puram,East,2 BHK,17000,,1060,Unfurnished,,2022-05-31,2026-06-05 22:46:37.485506,,16.04
+3153,kaggle,K R Puram,East,2 BHK,13000,,750,Semi-Furnished,,2022-05-19,2026-06-05 22:46:37.485506,,17.33
+3282,kaggle,K R Puram,East,1 BHK,8500,,730,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,11.64
+3309,kaggle,K R Puram,East,2 BHK,14000,,900,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,15.56
+3430,kaggle,K R Puram,East,2 BHK,11000,,600,Semi-Furnished,,2022-06-04,2026-06-05 22:46:37.485506,,18.33
+3433,kaggle,K R Puram,East,2 BHK,12000,,1000,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,12.00
+3450,kaggle,K R Puram,East,2 BHK,7500,,600,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,12.50
+3530,kaggle,K R Puram,East,2 BHK,18000,,1100,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,16.36
+3277,kaggle,"Murugeshpalya, Airport Road",East,1 BHK,9000,,445,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,20.22
+3287,kaggle,"Murugeshpalya, Airport Road",East,1 BHK,15000,,435,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,34.48
+3471,kaggle,"Murugeshpalya, Airport Road",East,1 BHK,15000,,455,Semi-Furnished,,2022-07-07,2026-06-05 22:46:37.485506,,32.97
+3490,kaggle,"Murugeshpalya, Airport Road",East,1 BHK,14000,,435,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,32.18
+3498,kaggle,"Murugeshpalya, Airport Road",East,1 BHK,14000,,440,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,31.82
+2854,kaggle,Mahadevapura,East,1 BHK,11500,,550,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,20.91
+3389,kaggle,Mahadevapura,East,2 BHK,8000,,800,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,10.00
+2696,kaggle,Ramamurthy Nagar,East,2 BHK,15000,,1400,Furnished,,2022-05-10,2026-06-05 22:46:37.485506,,10.71
+2711,kaggle,Ramamurthy Nagar,East,2 BHK,12500,,900,Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,13.89
+2741,kaggle,Ramamurthy Nagar,East,2 BHK,16000,,950,Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,16.84
+3264,kaggle,Ramamurthy Nagar,East,2 BHK,14000,,1200,Unfurnished,,2022-05-27,2026-06-05 22:46:37.485506,,11.67
+2877,kaggle,"Malleshpalya, Kaggadasapura",East,1 BHK,10000,,450,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,22.22
+3538,kaggle,"Jp Nagar Phase 5, J P Nagar, Outer Ring Road",South,2 BHK,22000,,850,Semi-Furnished,,2022-05-27,2026-06-05 22:46:37.485506,,25.88
+2893,kaggle,"Kaggadasapura, Indira nagar",Central,3 BHK,25000,,1500,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,16.67
+3194,kaggle,"Kaggadasapura, Indira nagar",Central,2 BHK,30000,,1100,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,27.27
+3541,kaggle,"Jalahalli, Jalahalli, Outer Ring Road",North,3 BHK,24000,,1400,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,17.14
+3562,kaggle,Yeshwantpur,West,2 BHK,30000,,1000,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,30.00
+3241,kaggle,"Abbiareddy Layout, Kaggadasapura",East,2 BHK,22500,,1115,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,20.18
+3380,kaggle,"Maruthi Nagar-Kaggadasapura, Kaggadasapura",East,2 BHK,14500,,650,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,22.31
+3547,kaggle,C V Raman Nagar,East,2 BHK,20000,,1180,Semi-Furnished,,2022-05-22,2026-06-05 22:46:37.485506,,16.95
+3041,kaggle,Horamavu,East,2 BHK,15000,,850,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,17.65
+3130,kaggle,Maruthi Sevanagar,East,2 BHK,30000,,1100,Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,27.27
+3537,kaggle,"Dodda Banaswadi, Banaswadi",East,2 BHK,17500,,1000,Unfurnished,,2022-06-27,2026-06-05 22:46:37.485506,,17.50
+2768,kaggle,"Rbi Layout, J P Nagar",South,2 BHK,19000,,1000,Semi-Furnished,,2022-06-20,2026-06-05 22:46:37.485506,,19.00
+2799,kaggle,J P Nagar,South,1 BHK,7000,,360,Unfurnished,,2022-06-20,2026-06-05 22:46:37.485506,,19.44
+2905,kaggle,"Jp Nagar Phase 7, J P Nagar",South,2 BHK,11500,,1200,Semi-Furnished,,2022-05-24,2026-06-05 22:46:37.485506,,9.58
+2911,kaggle,"Jp Nagar Phase 2, J P Nagar",South,1 BHK,7000,,200,Semi-Furnished,,2022-06-23,2026-06-05 22:46:37.485506,,35.00
+2915,kaggle,"Jp Nagar Phase 7, J P Nagar",South,3 BHK,29000,,1800,Semi-Furnished,,2022-07-08,2026-06-05 22:46:37.485506,,16.11
+2929,kaggle,"Jp Nagar Phase 7, J P Nagar",South,1 BHK,11000,,550,Semi-Furnished,,2022-06-16,2026-06-05 22:46:37.485506,,20.00
+3115,kaggle,"Jp Nagar Phase 7, J P Nagar",South,2 BHK,18000,,1000,Semi-Furnished,,2022-07-04,2026-06-05 22:46:37.485506,,18.00
+3198,kaggle,"Royal Lakefront Phase-3 North, JP Nagar Phase 8",South,2 BHK,25500,,1475,Furnished,,2022-06-30,2026-06-05 22:46:37.485506,,17.29
+3357,kaggle,"Jp Nagar Phase 6, J P Nagar, Outer Ring Road",South,3 BHK,30000,,2000,Semi-Furnished,,2022-05-14,2026-06-05 22:46:37.485506,,15.00
+3550,kaggle,"Jp Nagar Phase 5, J P Nagar, Outer Ring Road",South,2 BHK,10000,,700,Semi-Furnished,,2022-06-24,2026-06-05 22:46:37.485506,,14.29
+3053,kaggle,"Bohra Layout, Gottigere, bannerghatta main Road",South,3 BHK,22500,,1600,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,14.06
+3049,kaggle,"Banashankari Stage 2, Banashankari",South,2 BHK,15000,,750,Semi-Furnished,,2022-06-27,2026-06-05 22:46:37.485506,,20.00
+3245,kaggle,"Kaggadasapura, Indira nagar",Central,3 BHK,25000,,1400,Semi-Furnished,,2022-05-23,2026-06-05 22:46:37.485506,,17.86
+3361,kaggle,"Kaggadasapura, Indira nagar",Central,2 BHK,16000,,1000,Semi-Furnished,,2022-05-05,2026-06-05 22:46:37.485506,,16.00

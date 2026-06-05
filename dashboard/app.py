@@ -15,16 +15,11 @@ st.set_page_config(
 )
 
 # ── Data loader ───────────────────────────────────────────────────────────
+
+# Replace load_data() with:
 @st.cache_data
 def load_data():
-    conn = psycopg2.connect(
-        host=os.getenv("DB_HOST"), port=os.getenv("DB_PORT"),
-        dbname=os.getenv("DB_NAME"), user=os.getenv("DB_USER"),
-        password=os.getenv("DB_PASSWORD")
-    )
-    df = pd.read_sql("SELECT * FROM listings", conn)
-    conn.close()
-    return df
+    return pd.read_csv("data/listings_clean.csv")
 
 df = load_data()
 
